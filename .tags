@@ -1,0 +1,856 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+Adafruit_VC0706	.\Adafruit-VC0706\Adafruit_VC0706.cpp	/^    Adafruit_VC0706::Adafruit_VC0706(SoftwareSerial *ser) {$/;"	f	class:Adafruit_VC0706
+Adafruit_VC0706	.\Adafruit-VC0706\Adafruit_VC0706.cpp	/^Adafruit_VC0706::Adafruit_VC0706(HardwareSerial *ser) {$/;"	f	class:Adafruit_VC0706
+Adafruit_VC0706	.\Adafruit-VC0706\Adafruit_VC0706.h	/^class Adafruit_VC0706 {$/;"	c
+BAUD	.\Adafruit-VC0706\getimage0706.py	/^BAUD = 38400$/;"	v
+BAUD	.\Adafruit-VC0706\raspi_camera.py	/^BAUD = 38400$/;"	v
+CAMERABUFFSIZ	.\Adafruit-VC0706\Adafruit_VC0706.h	62;"	d
+CAMERADELAY	.\Adafruit-VC0706\Adafruit_VC0706.h	63;"	d
+CMD_GETBUFFLEN	.\Adafruit-VC0706\getimage0706.py	/^CMD_GETBUFFLEN = 0x34$/;"	v
+CMD_GETBUFFLEN	.\Adafruit-VC0706\raspi_camera.py	/^CMD_GETBUFFLEN = 0x34$/;"	v
+CMD_GETVERSION	.\Adafruit-VC0706\getimage0706.py	/^CMD_GETVERSION = 0x11$/;"	v
+CMD_GETVERSION	.\Adafruit-VC0706\raspi_camera.py	/^CMD_GETVERSION = 0x11$/;"	v
+CMD_READBUFF	.\Adafruit-VC0706\getimage0706.py	/^CMD_READBUFF = 0x32$/;"	v
+CMD_READBUFF	.\Adafruit-VC0706\raspi_camera.py	/^CMD_READBUFF = 0x32$/;"	v
+CMD_RESET	.\Adafruit-VC0706\getimage0706.py	/^CMD_RESET = 0x26$/;"	v
+CMD_RESET	.\Adafruit-VC0706\raspi_camera.py	/^CMD_RESET = 0x26$/;"	v
+CMD_TAKEPHOTO	.\Adafruit-VC0706\getimage0706.py	/^CMD_TAKEPHOTO = 0x36$/;"	v
+CMD_TAKEPHOTO	.\Adafruit-VC0706\raspi_camera.py	/^CMD_TAKEPHOTO = 0x36$/;"	v
+COMMANDEND	.\Adafruit-VC0706\getimage0706.py	/^COMMANDEND = 0x00$/;"	v
+COMMANDEND	.\Adafruit-VC0706\raspi_camera.py	/^COMMANDEND = 0x00$/;"	v
+COMMANDREPLY	.\Adafruit-VC0706\getimage0706.py	/^COMMANDREPLY = 0x76$/;"	v
+COMMANDREPLY	.\Adafruit-VC0706\raspi_camera.py	/^COMMANDREPLY = 0x76$/;"	v
+COMMANDSEND	.\Adafruit-VC0706\getimage0706.py	/^COMMANDSEND = 0x56$/;"	v
+COMMANDSEND	.\Adafruit-VC0706\raspi_camera.py	/^COMMANDSEND = 0x56$/;"	v
+FBUF_CURRENTFRAME	.\Adafruit-VC0706\getimage0706.py	/^FBUF_CURRENTFRAME = 0x00$/;"	v
+FBUF_CURRENTFRAME	.\Adafruit-VC0706\raspi_camera.py	/^FBUF_CURRENTFRAME = 0x00$/;"	v
+FBUF_NEXTFRAME	.\Adafruit-VC0706\getimage0706.py	/^FBUF_NEXTFRAME = 0x01$/;"	v
+FBUF_NEXTFRAME	.\Adafruit-VC0706\raspi_camera.py	/^FBUF_NEXTFRAME = 0x01$/;"	v
+FBUF_STOPCURRENTFRAME	.\Adafruit-VC0706\getimage0706.py	/^FBUF_STOPCURRENTFRAME = 0x00$/;"	v
+FBUF_STOPCURRENTFRAME	.\Adafruit-VC0706\raspi_camera.py	/^FBUF_STOPCURRENTFRAME = 0x00$/;"	v
+NOTE_A1	.\myLib\src\pitches.h	15;"	d
+NOTE_A2	.\myLib\src\pitches.h	27;"	d
+NOTE_A3	.\myLib\src\pitches.h	39;"	d
+NOTE_A4	.\myLib\src\pitches.h	51;"	d
+NOTE_A5	.\myLib\src\pitches.h	63;"	d
+NOTE_A6	.\myLib\src\pitches.h	75;"	d
+NOTE_A7	.\myLib\src\pitches.h	87;"	d
+NOTE_AS1	.\myLib\src\pitches.h	16;"	d
+NOTE_AS2	.\myLib\src\pitches.h	28;"	d
+NOTE_AS3	.\myLib\src\pitches.h	40;"	d
+NOTE_AS4	.\myLib\src\pitches.h	52;"	d
+NOTE_AS5	.\myLib\src\pitches.h	64;"	d
+NOTE_AS6	.\myLib\src\pitches.h	76;"	d
+NOTE_AS7	.\myLib\src\pitches.h	88;"	d
+NOTE_B0	.\myLib\src\pitches.h	5;"	d
+NOTE_B1	.\myLib\src\pitches.h	17;"	d
+NOTE_B2	.\myLib\src\pitches.h	29;"	d
+NOTE_B3	.\myLib\src\pitches.h	41;"	d
+NOTE_B4	.\myLib\src\pitches.h	53;"	d
+NOTE_B5	.\myLib\src\pitches.h	65;"	d
+NOTE_B6	.\myLib\src\pitches.h	77;"	d
+NOTE_B7	.\myLib\src\pitches.h	89;"	d
+NOTE_C1	.\myLib\src\pitches.h	6;"	d
+NOTE_C2	.\myLib\src\pitches.h	18;"	d
+NOTE_C3	.\myLib\src\pitches.h	30;"	d
+NOTE_C4	.\myLib\src\pitches.h	42;"	d
+NOTE_C5	.\myLib\src\pitches.h	54;"	d
+NOTE_C6	.\myLib\src\pitches.h	66;"	d
+NOTE_C7	.\myLib\src\pitches.h	78;"	d
+NOTE_C8	.\myLib\src\pitches.h	90;"	d
+NOTE_CS1	.\myLib\src\pitches.h	7;"	d
+NOTE_CS2	.\myLib\src\pitches.h	19;"	d
+NOTE_CS3	.\myLib\src\pitches.h	31;"	d
+NOTE_CS4	.\myLib\src\pitches.h	43;"	d
+NOTE_CS5	.\myLib\src\pitches.h	55;"	d
+NOTE_CS6	.\myLib\src\pitches.h	67;"	d
+NOTE_CS7	.\myLib\src\pitches.h	79;"	d
+NOTE_CS8	.\myLib\src\pitches.h	91;"	d
+NOTE_D1	.\myLib\src\pitches.h	8;"	d
+NOTE_D2	.\myLib\src\pitches.h	20;"	d
+NOTE_D3	.\myLib\src\pitches.h	32;"	d
+NOTE_D4	.\myLib\src\pitches.h	44;"	d
+NOTE_D5	.\myLib\src\pitches.h	56;"	d
+NOTE_D6	.\myLib\src\pitches.h	68;"	d
+NOTE_D7	.\myLib\src\pitches.h	80;"	d
+NOTE_D8	.\myLib\src\pitches.h	92;"	d
+NOTE_DS1	.\myLib\src\pitches.h	9;"	d
+NOTE_DS2	.\myLib\src\pitches.h	21;"	d
+NOTE_DS3	.\myLib\src\pitches.h	33;"	d
+NOTE_DS4	.\myLib\src\pitches.h	45;"	d
+NOTE_DS5	.\myLib\src\pitches.h	57;"	d
+NOTE_DS6	.\myLib\src\pitches.h	69;"	d
+NOTE_DS7	.\myLib\src\pitches.h	81;"	d
+NOTE_DS8	.\myLib\src\pitches.h	93;"	d
+NOTE_E1	.\myLib\src\pitches.h	10;"	d
+NOTE_E2	.\myLib\src\pitches.h	22;"	d
+NOTE_E3	.\myLib\src\pitches.h	34;"	d
+NOTE_E4	.\myLib\src\pitches.h	46;"	d
+NOTE_E5	.\myLib\src\pitches.h	58;"	d
+NOTE_E6	.\myLib\src\pitches.h	70;"	d
+NOTE_E7	.\myLib\src\pitches.h	82;"	d
+NOTE_F1	.\myLib\src\pitches.h	11;"	d
+NOTE_F2	.\myLib\src\pitches.h	23;"	d
+NOTE_F3	.\myLib\src\pitches.h	35;"	d
+NOTE_F4	.\myLib\src\pitches.h	47;"	d
+NOTE_F5	.\myLib\src\pitches.h	59;"	d
+NOTE_F6	.\myLib\src\pitches.h	71;"	d
+NOTE_F7	.\myLib\src\pitches.h	83;"	d
+NOTE_FS1	.\myLib\src\pitches.h	12;"	d
+NOTE_FS2	.\myLib\src\pitches.h	24;"	d
+NOTE_FS3	.\myLib\src\pitches.h	36;"	d
+NOTE_FS4	.\myLib\src\pitches.h	48;"	d
+NOTE_FS5	.\myLib\src\pitches.h	60;"	d
+NOTE_FS6	.\myLib\src\pitches.h	72;"	d
+NOTE_FS7	.\myLib\src\pitches.h	84;"	d
+NOTE_G1	.\myLib\src\pitches.h	13;"	d
+NOTE_G2	.\myLib\src\pitches.h	25;"	d
+NOTE_G3	.\myLib\src\pitches.h	37;"	d
+NOTE_G4	.\myLib\src\pitches.h	49;"	d
+NOTE_G5	.\myLib\src\pitches.h	61;"	d
+NOTE_G6	.\myLib\src\pitches.h	73;"	d
+NOTE_G7	.\myLib\src\pitches.h	85;"	d
+NOTE_GS1	.\myLib\src\pitches.h	14;"	d
+NOTE_GS2	.\myLib\src\pitches.h	26;"	d
+NOTE_GS3	.\myLib\src\pitches.h	38;"	d
+NOTE_GS4	.\myLib\src\pitches.h	50;"	d
+NOTE_GS5	.\myLib\src\pitches.h	62;"	d
+NOTE_GS6	.\myLib\src\pitches.h	74;"	d
+NOTE_GS7	.\myLib\src\pitches.h	86;"	d
+NTP_PACKET_SIZE	.\myLib\src\ntp.cpp	/^const int NTP_PACKET_SIZE = 48; \/\/ NTP time is in the first 48 bytes of message$/;"	v
+OSD	.\Adafruit-VC0706\Adafruit_VC0706.cpp	/^void Adafruit_VC0706::OSD(uint8_t x, uint8_t y, char *str) {$/;"	f	class:Adafruit_VC0706
+PG_LEFT	.\ucglib\src\clib\ucg.h	668;"	d
+PG_MAX_POINTS	.\ucglib\src\clib\ucg.h	665;"	d
+PG_NOINLINE	.\ucglib\src\clib\ucg.h	635;"	d
+PG_RIGHT	.\ucglib\src\clib\ucg.h	669;"	d
+PORT	.\Adafruit-VC0706\getimage0706.py	/^PORT = "COM1"      # change this to your com port!$/;"	v
+PORT	.\Adafruit-VC0706\raspi_camera.py	/^PORT = "\/dev\/ttyAMA0"$/;"	v
+PROGMEM	.\ucglib\src\clib\ucg.h	127;"	d
+SERIALNUM	.\Adafruit-VC0706\getimage0706.py	/^SERIALNUM = 0    # start with 0$/;"	v
+SERIALNUM	.\Adafruit-VC0706\raspi_camera.py	/^SERIALNUM = 0    # start with 0, each camera should have a unique ID.$/;"	v
+TIMEOUT	.\Adafruit-VC0706\getimage0706.py	/^TIMEOUT = 0.2$/;"	v
+TIMEOUT	.\Adafruit-VC0706\raspi_camera.py	/^TIMEOUT = 0.5    # I needed a longer timeout than ladyada's 0.2 value$/;"	v
+TVoff	.\Adafruit-VC0706\Adafruit_VC0706.cpp	/^boolean Adafruit_VC0706::TVoff() {$/;"	f	class:Adafruit_VC0706
+TVon	.\Adafruit-VC0706\Adafruit_VC0706.cpp	/^boolean Adafruit_VC0706::TVon() {$/;"	f	class:Adafruit_VC0706
+UCG_A1	.\ucglib\src\clib\ucg.h	802;"	d
+UCG_A2	.\ucglib\src\clib\ucg.h	803;"	d
+UCG_A3	.\ucglib\src\clib\ucg.h	804;"	d
+UCG_A4	.\ucglib\src\clib\ucg.h	805;"	d
+UCG_A5	.\ucglib\src\clib\ucg.h	806;"	d
+UCG_A6	.\ucglib\src\clib\ucg.h	807;"	d
+UCG_A7	.\ucglib\src\clib\ucg.h	808;"	d
+UCG_A8	.\ucglib\src\clib\ucg.h	809;"	d
+UCG_ATOMIC_AND	.\ucglib\src\clib\ucg.h	536;"	d
+UCG_ATOMIC_AND	.\ucglib\src\clib\ucg.h	539;"	d
+UCG_ATOMIC_AND	.\ucglib\src\clib\ucg.h	545;"	d
+UCG_ATOMIC_END	.\ucglib\src\clib\ucg.h	534;"	d
+UCG_ATOMIC_END	.\ucglib\src\clib\ucg.h	541;"	d
+UCG_ATOMIC_END	.\ucglib\src\clib\ucg.h	547;"	d
+UCG_ATOMIC_OR	.\ucglib\src\clib\ucg.h	535;"	d
+UCG_ATOMIC_OR	.\ucglib\src\clib\ucg.h	538;"	d
+UCG_ATOMIC_OR	.\ucglib\src\clib\ucg.h	544;"	d
+UCG_ATOMIC_START	.\ucglib\src\clib\ucg.h	533;"	d
+UCG_ATOMIC_START	.\ucglib\src\clib\ucg.h	540;"	d
+UCG_ATOMIC_START	.\ucglib\src\clib\ucg.h	546;"	d
+UCG_C10	.\ucglib\src\clib\ucg.h	789;"	d
+UCG_C11	.\ucglib\src\clib\ucg.h	791;"	d
+UCG_C12	.\ucglib\src\clib\ucg.h	793;"	d
+UCG_C13	.\ucglib\src\clib\ucg.h	795;"	d
+UCG_C14	.\ucglib\src\clib\ucg.h	797;"	d
+UCG_C15	.\ucglib\src\clib\ucg.h	799;"	d
+UCG_C20	.\ucglib\src\clib\ucg.h	790;"	d
+UCG_C21	.\ucglib\src\clib\ucg.h	792;"	d
+UCG_C22	.\ucglib\src\clib\ucg.h	794;"	d
+UCG_C23	.\ucglib\src\clib\ucg.h	796;"	d
+UCG_C24	.\ucglib\src\clib\ucg.h	798;"	d
+UCG_CFG_CD	.\ucglib\src\clib\ucg.h	835;"	d
+UCG_COM_ARDUINO_3WIRE_8BIT_BUF_LEN	.\ucglib\src\Ucglib.cpp	580;"	d	file:
+UCG_COM_MSG_CHANGE_CD_LINE	.\ucglib\src\clib\ucg.h	491;"	d
+UCG_COM_MSG_CHANGE_CS_LINE	.\ucglib\src\clib\ucg.h	485;"	d
+UCG_COM_MSG_CHANGE_RESET_LINE	.\ucglib\src\clib\ucg.h	480;"	d
+UCG_COM_MSG_DELAY	.\ucglib\src\clib\ucg.h	474;"	d
+UCG_COM_MSG_POWER_DOWN	.\ucglib\src\clib\ucg.h	469;"	d
+UCG_COM_MSG_POWER_UP	.\ucglib\src\clib\ucg.h	464;"	d
+UCG_COM_MSG_REPEAT_1_BYTE	.\ucglib\src\clib\ucg.h	504;"	d
+UCG_COM_MSG_REPEAT_2_BYTES	.\ucglib\src\clib\ucg.h	505;"	d
+UCG_COM_MSG_REPEAT_3_BYTES	.\ucglib\src\clib\ucg.h	506;"	d
+UCG_COM_MSG_SEND_BYTE	.\ucglib\src\clib\ucg.h	497;"	d
+UCG_COM_MSG_SEND_CD_DATA_SEQUENCE	.\ucglib\src\clib\ucg.h	523;"	d
+UCG_COM_MSG_SEND_STR	.\ucglib\src\clib\ucg.h	513;"	d
+UCG_COM_STATUS_MASK_CD	.\ucglib\src\clib\ucg.h	455;"	d
+UCG_COM_STATUS_MASK_CS	.\ucglib\src\clib\ucg.h	454;"	d
+UCG_COM_STATUS_MASK_POWER	.\ucglib\src\clib\ucg.h	452;"	d
+UCG_COM_STATUS_MASK_RESET	.\ucglib\src\clib\ucg.h	453;"	d
+UCG_CS	.\ucglib\src\clib\ucg.h	831;"	d
+UCG_D1	.\ucglib\src\clib\ucg.h	814;"	d
+UCG_D2	.\ucglib\src\clib\ucg.h	815;"	d
+UCG_D3	.\ucglib\src\clib\ucg.h	816;"	d
+UCG_D4	.\ucglib\src\clib\ucg.h	817;"	d
+UCG_D5	.\ucglib\src\clib\ucg.h	818;"	d
+UCG_D6	.\ucglib\src\clib\ucg.h	819;"	d
+UCG_DATA	.\ucglib\src\clib\ucg.h	812;"	d
+UCG_DLY_MS	.\ucglib\src\clib\ucg.h	822;"	d
+UCG_DLY_US	.\ucglib\src\clib\ucg.h	823;"	d
+UCG_DRAW_ALL	.\ucglib\src\clib\ucg.h	606;"	d
+UCG_DRAW_LOWER_LEFT	.\ucglib\src\clib\ucg.h	604;"	d
+UCG_DRAW_LOWER_RIGHT	.\ucglib\src\clib\ucg.h	605;"	d
+UCG_DRAW_UPPER_LEFT	.\ucglib\src\clib\ucg.h	603;"	d
+UCG_DRAW_UPPER_RIGHT	.\ucglib\src\clib\ucg.h	602;"	d
+UCG_END	.\ucglib\src\clib\ucg.h	838;"	d
+UCG_FONT_DATA_STRUCT_SIZE	.\ucglib\src\clib\ucg_font.c	50;"	d	file:
+UCG_FONT_HEIGHT_MODE_ALL	.\ucglib\src\clib\ucg.h	274;"	d
+UCG_FONT_HEIGHT_MODE_TEXT	.\ucglib\src\clib\ucg.h	272;"	d
+UCG_FONT_HEIGHT_MODE_XTEXT	.\ucglib\src\clib\ucg.h	273;"	d
+UCG_FONT_MODE_NONE	.\ucglib\src\clib\ucg.h	706;"	d
+UCG_FONT_MODE_SOLID	.\ucglib\src\clib\ucg.h	705;"	d
+UCG_FONT_MODE_TRANSPARENT	.\ucglib\src\clib\ucg.h	704;"	d
+UCG_FONT_SECTION	.\ucglib\src\clib\ucg.h	104;"	d
+UCG_FONT_SECTION	.\ucglib\src\clib\ucg.h	106;"	d
+UCG_FONT_SECTION	.\ucglib\src\clib\ucg.h	108;"	d
+UCG_FONT_SECTION	.\ucglib\src\clib\ucg.h	113;"	d
+UCG_INTERRUPT_SAFE	.\ucglib\src\clib\ucg.h	529;"	d
+UCG_MSG_DEV_POWER_DOWN	.\ucglib\src\clib\ucg.h	437;"	d
+UCG_MSG_DEV_POWER_UP	.\ucglib\src\clib\ucg.h	436;"	d
+UCG_MSG_DRAW_L90FX	.\ucglib\src\clib\ucg.h	443;"	d
+UCG_MSG_DRAW_L90SE	.\ucglib\src\clib\ucg.h	446;"	d
+UCG_MSG_DRAW_PIXEL	.\ucglib\src\clib\ucg.h	442;"	d
+UCG_MSG_GET_DIMENSION	.\ucglib\src\clib\ucg.h	439;"	d
+UCG_MSG_SET_CLIP_BOX	.\ucglib\src\clib\ucg.h	438;"	d
+UCG_NOINLINE	.\ucglib\src\clib\ucg.h	100;"	d
+UCG_NOINLINE	.\ucglib\src\clib\ucg.h	111;"	d
+UCG_PIN_CD	.\ucglib\src\clib\ucg.h	338;"	d
+UCG_PIN_COUNT	.\ucglib\src\clib\ucg.h	353;"	d
+UCG_PIN_CS	.\ucglib\src\clib\ucg.h	339;"	d
+UCG_PIN_D0	.\ucglib\src\clib\ucg.h	344;"	d
+UCG_PIN_D1	.\ucglib\src\clib\ucg.h	345;"	d
+UCG_PIN_D2	.\ucglib\src\clib\ucg.h	346;"	d
+UCG_PIN_D3	.\ucglib\src\clib\ucg.h	347;"	d
+UCG_PIN_D4	.\ucglib\src\clib\ucg.h	348;"	d
+UCG_PIN_D5	.\ucglib\src\clib\ucg.h	349;"	d
+UCG_PIN_D6	.\ucglib\src\clib\ucg.h	350;"	d
+UCG_PIN_D7	.\ucglib\src\clib\ucg.h	351;"	d
+UCG_PIN_RST	.\ucglib\src\clib\ucg.h	337;"	d
+UCG_PIN_SCL	.\ucglib\src\clib\ucg.h	340;"	d
+UCG_PIN_SDA	.\ucglib\src\clib\ucg.h	342;"	d
+UCG_PIN_VAL_NONE	.\ucglib\src\clib\ucg.h	355;"	d
+UCG_PIN_WR	.\ucglib\src\clib\ucg.h	341;"	d
+UCG_PROGMEM	.\ucglib\src\clib\ucg.h	119;"	d
+UCG_PROGMEM	.\ucglib\src\clib\ucg.h	125;"	d
+UCG_PSTR	.\ucglib\src\clib\ucg.h	123;"	d
+UCG_PSTR	.\ucglib\src\clib\ucg.h	132;"	d
+UCG_RST	.\ucglib\src\clib\ucg.h	830;"	d
+UCG_SECTION	.\ucglib\src\clib\ucg.h	101;"	d
+UCG_SECTION	.\ucglib\src\clib\ucg.h	112;"	d
+UCG_VARX	.\ucglib\src\clib\ucg.h	826;"	d
+UCG_VARY	.\ucglib\src\clib\ucg.h	827;"	d
+USE_PIN_LIST	.\ucglib\src\Ucglib.h	58;"	d
+USE_PIN_LIST	.\ucglib\src\clib\ucg.h	95;"	d
+Ucglib	.\ucglib\src\Ucglib.h	/^    Ucglib(ucg_dev_fnptr dev, ucg_dev_fnptr ext = ucg_ext_none) { init(); dev_cb = dev; ext_cb = ext; }$/;"	f	class:Ucglib
+Ucglib	.\ucglib\src\Ucglib.h	/^    Ucglib(void) { init(); }$/;"	f	class:Ucglib
+Ucglib	.\ucglib\src\Ucglib.h	/^class Ucglib : public Print$/;"	c
+Ucglib3Wire9bitHWSPI	.\ucglib\src\Ucglib.h	/^    Ucglib3Wire9bitHWSPI(ucg_dev_fnptr dev, ucg_dev_fnptr ext, uint8_t cs = UCG_PIN_VAL_NONE, uint8_t reset = UCG_PIN_VAL_NONE)$/;"	f	class:Ucglib3Wire9bitHWSPI
+Ucglib3Wire9bitHWSPI	.\ucglib\src\Ucglib.h	/^class Ucglib3Wire9bitHWSPI : public Ucglib$/;"	c
+Ucglib3Wire9bitSWSPI	.\ucglib\src\Ucglib.h	/^    Ucglib3Wire9bitSWSPI(ucg_dev_fnptr dev, ucg_dev_fnptr ext, uint8_t scl, uint8_t sda, uint8_t cs = UCG_PIN_VAL_NONE, uint8_t reset = UCG_PIN_VAL_NONE)$/;"	f	class:Ucglib3Wire9bitSWSPI
+Ucglib3Wire9bitSWSPI	.\ucglib\src\Ucglib.h	/^class Ucglib3Wire9bitSWSPI : public Ucglib$/;"	c
+Ucglib3WireILI9325SWSPI	.\ucglib\src\Ucglib.h	/^    Ucglib3WireILI9325SWSPI(ucg_dev_fnptr dev, ucg_dev_fnptr ext, uint8_t scl, uint8_t sda, uint8_t cs = UCG_PIN_VAL_NONE, uint8_t reset = UCG_PIN_VAL_NONE)$/;"	f	class:Ucglib3WireILI9325SWSPI
+Ucglib3WireILI9325SWSPI	.\ucglib\src\Ucglib.h	/^class Ucglib3WireILI9325SWSPI : public Ucglib$/;"	c
+Ucglib4WireHWSPI	.\ucglib\src\Ucglib.h	/^    Ucglib4WireHWSPI(ucg_dev_fnptr dev, ucg_dev_fnptr ext, uint8_t cd, uint8_t cs = UCG_PIN_VAL_NONE, uint8_t reset = UCG_PIN_VAL_NONE)$/;"	f	class:Ucglib4WireHWSPI
+Ucglib4WireHWSPI	.\ucglib\src\Ucglib.h	/^class Ucglib4WireHWSPI : public Ucglib$/;"	c
+Ucglib4WireSWSPI	.\ucglib\src\Ucglib.h	/^    Ucglib4WireSWSPI(ucg_dev_fnptr dev, ucg_dev_fnptr ext, uint8_t scl, uint8_t sda, uint8_t cd, uint8_t cs = UCG_PIN_VAL_NONE, uint8_t reset = UCG_PIN_VAL_NONE)$/;"	f	class:Ucglib4WireSWSPI
+Ucglib4WireSWSPI	.\ucglib\src\Ucglib.h	/^class Ucglib4WireSWSPI : public Ucglib$/;"	c
+Ucglib8Bit	.\ucglib\src\Ucglib.h	/^    Ucglib8Bit(ucg_dev_fnptr dev, ucg_dev_fnptr ext, uint8_t d0, uint8_t d1, uint8_t d2, uint8_t d3, uint8_t d4, uint8_t d5, uint8_t d6, uint8_t d7, uint8_t wr, uint8_t cd, uint8_t cs = UCG_PIN_VAL_NONE, uint8_t reset = UCG_PIN_VAL_NONE)$/;"	f	class:Ucglib8Bit
+Ucglib8Bit	.\ucglib\src\Ucglib.h	/^class Ucglib8Bit : public Ucglib$/;"	c
+Ucglib8BitPortD	.\ucglib\src\Ucglib.h	/^    Ucglib8BitPortD(ucg_dev_fnptr dev, ucg_dev_fnptr ext, uint8_t wr, uint8_t cd, uint8_t cs = UCG_PIN_VAL_NONE, uint8_t reset = UCG_PIN_VAL_NONE)$/;"	f	class:Ucglib8BitPortD
+Ucglib8BitPortD	.\ucglib\src\Ucglib.h	/^class Ucglib8BitPortD : public Ucglib$/;"	c
+Ucglib_ILI9163_18x128x128_HWSPI	.\ucglib\src\Ucglib.h	/^  Ucglib_ILI9163_18x128x128_HWSPI( uint8_t cd, uint8_t cs = UCG_PIN_VAL_NONE, uint8_t reset = UCG_PIN_VAL_NONE) : $/;"	f	class:Ucglib_ILI9163_18x128x128_HWSPI
+Ucglib_ILI9163_18x128x128_HWSPI	.\ucglib\src\Ucglib.h	/^class Ucglib_ILI9163_18x128x128_HWSPI : public Ucglib4WireHWSPI$/;"	c
+Ucglib_ILI9163_18x128x128_SWSPI	.\ucglib\src\Ucglib.h	/^  Ucglib_ILI9163_18x128x128_SWSPI( uint8_t scl, uint8_t sda, uint8_t cd, uint8_t cs = UCG_PIN_VAL_NONE, uint8_t reset = UCG_PIN_VAL_NONE) : $/;"	f	class:Ucglib_ILI9163_18x128x128_SWSPI
+Ucglib_ILI9163_18x128x128_SWSPI	.\ucglib\src\Ucglib.h	/^class Ucglib_ILI9163_18x128x128_SWSPI : public Ucglib4WireSWSPI$/;"	c
+Ucglib_ILI9341_18x240x320_HWSPI	.\ucglib\src\Ucglib.h	/^  Ucglib_ILI9341_18x240x320_HWSPI( uint8_t cd, uint8_t cs = UCG_PIN_VAL_NONE, uint8_t reset = UCG_PIN_VAL_NONE) : $/;"	f	class:Ucglib_ILI9341_18x240x320_HWSPI
+Ucglib_ILI9341_18x240x320_HWSPI	.\ucglib\src\Ucglib.h	/^class Ucglib_ILI9341_18x240x320_HWSPI : public Ucglib4WireHWSPI$/;"	c
+Ucglib_ILI9341_18x240x320_SWSPI	.\ucglib\src\Ucglib.h	/^  Ucglib_ILI9341_18x240x320_SWSPI( uint8_t scl, uint8_t sda, uint8_t cd, uint8_t cs = UCG_PIN_VAL_NONE, uint8_t reset = UCG_PIN_VAL_NONE) : $/;"	f	class:Ucglib_ILI9341_18x240x320_SWSPI
+Ucglib_ILI9341_18x240x320_SWSPI	.\ucglib\src\Ucglib.h	/^class Ucglib_ILI9341_18x240x320_SWSPI : public Ucglib4WireSWSPI$/;"	c
+Ucglib_LD50T6160_18x160x128_6Bit	.\ucglib\src\Ucglib.h	/^  Ucglib_LD50T6160_18x160x128_6Bit( uint8_t d0, uint8_t d1, uint8_t d2, uint8_t d3, uint8_t d4, uint8_t d5, uint8_t wr, uint8_t cd, uint8_t cs = UCG_PIN_VAL_NONE, uint8_t reset = UCG_PIN_VAL_NONE) : $/;"	f	class:Ucglib_LD50T6160_18x160x128_6Bit
+Ucglib_LD50T6160_18x160x128_6Bit	.\ucglib\src\Ucglib.h	/^class Ucglib_LD50T6160_18x160x128_6Bit : public Ucglib8Bit$/;"	c
+Ucglib_PCF8833_16x132x132_HWSPI	.\ucglib\src\Ucglib.h	/^  Ucglib_PCF8833_16x132x132_HWSPI( uint8_t cs = UCG_PIN_VAL_NONE, uint8_t reset = UCG_PIN_VAL_NONE) : $/;"	f	class:Ucglib_PCF8833_16x132x132_HWSPI
+Ucglib_PCF8833_16x132x132_HWSPI	.\ucglib\src\Ucglib.h	/^class Ucglib_PCF8833_16x132x132_HWSPI : public Ucglib3Wire9bitHWSPI$/;"	c
+Ucglib_PCF8833_16x132x132_SWSPI	.\ucglib\src\Ucglib.h	/^  Ucglib_PCF8833_16x132x132_SWSPI( uint8_t scl, uint8_t sda, uint8_t cs = UCG_PIN_VAL_NONE, uint8_t reset = UCG_PIN_VAL_NONE) : $/;"	f	class:Ucglib_PCF8833_16x132x132_SWSPI
+Ucglib_PCF8833_16x132x132_SWSPI	.\ucglib\src\Ucglib.h	/^class Ucglib_PCF8833_16x132x132_SWSPI : public Ucglib3Wire9bitSWSPI$/;"	c
+Ucglib_SEPS225_16x128x128_UNIVISION_HWSPI	.\ucglib\src\Ucglib.h	/^  Ucglib_SEPS225_16x128x128_UNIVISION_HWSPI( uint8_t cd, uint8_t cs = UCG_PIN_VAL_NONE, uint8_t reset = UCG_PIN_VAL_NONE) : $/;"	f	class:Ucglib_SEPS225_16x128x128_UNIVISION_HWSPI
+Ucglib_SEPS225_16x128x128_UNIVISION_HWSPI	.\ucglib\src\Ucglib.h	/^class Ucglib_SEPS225_16x128x128_UNIVISION_HWSPI : public Ucglib4WireHWSPI$/;"	c
+Ucglib_SEPS225_16x128x128_UNIVISION_SWSPI	.\ucglib\src\Ucglib.h	/^  Ucglib_SEPS225_16x128x128_UNIVISION_SWSPI( uint8_t scl, uint8_t sda, uint8_t cd, uint8_t cs = UCG_PIN_VAL_NONE, uint8_t reset = UCG_PIN_VAL_NONE) : $/;"	f	class:Ucglib_SEPS225_16x128x128_UNIVISION_SWSPI
+Ucglib_SEPS225_16x128x128_UNIVISION_SWSPI	.\ucglib\src\Ucglib.h	/^class Ucglib_SEPS225_16x128x128_UNIVISION_SWSPI : public Ucglib4WireSWSPI$/;"	c
+Ucglib_SSD1331_18x96x64_UNIVISION_HWSPI	.\ucglib\src\Ucglib.h	/^  Ucglib_SSD1331_18x96x64_UNIVISION_HWSPI( uint8_t cd, uint8_t cs = UCG_PIN_VAL_NONE, uint8_t reset = UCG_PIN_VAL_NONE) : $/;"	f	class:Ucglib_SSD1331_18x96x64_UNIVISION_HWSPI
+Ucglib_SSD1331_18x96x64_UNIVISION_HWSPI	.\ucglib\src\Ucglib.h	/^class Ucglib_SSD1331_18x96x64_UNIVISION_HWSPI : public Ucglib4WireHWSPI$/;"	c
+Ucglib_SSD1331_18x96x64_UNIVISION_SWSPI	.\ucglib\src\Ucglib.h	/^  Ucglib_SSD1331_18x96x64_UNIVISION_SWSPI( uint8_t scl, uint8_t sda, uint8_t cd, uint8_t cs = UCG_PIN_VAL_NONE, uint8_t reset = UCG_PIN_VAL_NONE) : $/;"	f	class:Ucglib_SSD1331_18x96x64_UNIVISION_SWSPI
+Ucglib_SSD1331_18x96x64_UNIVISION_SWSPI	.\ucglib\src\Ucglib.h	/^class Ucglib_SSD1331_18x96x64_UNIVISION_SWSPI : public Ucglib4WireSWSPI$/;"	c
+Ucglib_SSD1351_18x128x128_FT_HWSPI	.\ucglib\src\Ucglib.h	/^  Ucglib_SSD1351_18x128x128_FT_HWSPI( uint8_t cd, uint8_t cs = UCG_PIN_VAL_NONE, uint8_t reset = UCG_PIN_VAL_NONE) : $/;"	f	class:Ucglib_SSD1351_18x128x128_FT_HWSPI
+Ucglib_SSD1351_18x128x128_FT_HWSPI	.\ucglib\src\Ucglib.h	/^class Ucglib_SSD1351_18x128x128_FT_HWSPI : public Ucglib4WireHWSPI$/;"	c
+Ucglib_SSD1351_18x128x128_FT_SWSPI	.\ucglib\src\Ucglib.h	/^  Ucglib_SSD1351_18x128x128_FT_SWSPI( uint8_t scl, uint8_t sda, uint8_t cd, uint8_t cs = UCG_PIN_VAL_NONE, uint8_t reset = UCG_PIN_VAL_NONE) : $/;"	f	class:Ucglib_SSD1351_18x128x128_FT_SWSPI
+Ucglib_SSD1351_18x128x128_FT_SWSPI	.\ucglib\src\Ucglib.h	/^class Ucglib_SSD1351_18x128x128_FT_SWSPI : public Ucglib4WireSWSPI$/;"	c
+Ucglib_SSD1351_18x128x128_HWSPI	.\ucglib\src\Ucglib.h	/^  Ucglib_SSD1351_18x128x128_HWSPI( uint8_t cd, uint8_t cs = UCG_PIN_VAL_NONE, uint8_t reset = UCG_PIN_VAL_NONE) : $/;"	f	class:Ucglib_SSD1351_18x128x128_HWSPI
+Ucglib_SSD1351_18x128x128_HWSPI	.\ucglib\src\Ucglib.h	/^class Ucglib_SSD1351_18x128x128_HWSPI : public Ucglib4WireHWSPI$/;"	c
+Ucglib_SSD1351_18x128x128_SWSPI	.\ucglib\src\Ucglib.h	/^  Ucglib_SSD1351_18x128x128_SWSPI( uint8_t scl, uint8_t sda, uint8_t cd, uint8_t cs = UCG_PIN_VAL_NONE, uint8_t reset = UCG_PIN_VAL_NONE) : $/;"	f	class:Ucglib_SSD1351_18x128x128_SWSPI
+Ucglib_SSD1351_18x128x128_SWSPI	.\ucglib\src\Ucglib.h	/^class Ucglib_SSD1351_18x128x128_SWSPI : public Ucglib4WireSWSPI$/;"	c
+Ucglib_ST7735_18x128x160_HWSPI	.\ucglib\src\Ucglib.h	/^  Ucglib_ST7735_18x128x160_HWSPI( uint8_t cd, uint8_t cs = UCG_PIN_VAL_NONE, uint8_t reset = UCG_PIN_VAL_NONE) : $/;"	f	class:Ucglib_ST7735_18x128x160_HWSPI
+Ucglib_ST7735_18x128x160_HWSPI	.\ucglib\src\Ucglib.h	/^class Ucglib_ST7735_18x128x160_HWSPI : public Ucglib4WireHWSPI$/;"	c
+Ucglib_ST7735_18x128x160_SWSPI	.\ucglib\src\Ucglib.h	/^  Ucglib_ST7735_18x128x160_SWSPI( uint8_t scl, uint8_t sda, uint8_t cd, uint8_t cs = UCG_PIN_VAL_NONE, uint8_t reset = UCG_PIN_VAL_NONE) : $/;"	f	class:Ucglib_ST7735_18x128x160_SWSPI
+Ucglib_ST7735_18x128x160_SWSPI	.\ucglib\src\Ucglib.h	/^class Ucglib_ST7735_18x128x160_SWSPI : public Ucglib4WireSWSPI$/;"	c
+VC0706_160x120	.\Adafruit-VC0706\Adafruit_VC0706.h	53;"	d
+VC0706_320x240	.\Adafruit-VC0706\Adafruit_VC0706.h	52;"	d
+VC0706_640x480	.\Adafruit-VC0706\Adafruit_VC0706.h	51;"	d
+VC0706_ACTIVATEMOTION	.\Adafruit-VC0706\Adafruit_VC0706.h	57;"	d
+VC0706_COMM_MOTION_CTRL	.\Adafruit-VC0706\Adafruit_VC0706.h	38;"	d
+VC0706_COMM_MOTION_DETECTED	.\Adafruit-VC0706\Adafruit_VC0706.h	40;"	d
+VC0706_COMM_MOTION_STATUS	.\Adafruit-VC0706\Adafruit_VC0706.h	39;"	d
+VC0706_DOWNSIZE_CTRL	.\Adafruit-VC0706\Adafruit_VC0706.h	34;"	d
+VC0706_DOWNSIZE_STATUS	.\Adafruit-VC0706\Adafruit_VC0706.h	35;"	d
+VC0706_FBUF_CTRL	.\Adafruit-VC0706\Adafruit_VC0706.h	33;"	d
+VC0706_GEN_VERSION	.\Adafruit-VC0706\Adafruit_VC0706.h	29;"	d
+VC0706_GET_FBUF_LEN	.\Adafruit-VC0706\Adafruit_VC0706.h	32;"	d
+VC0706_GET_ZOOM	.\Adafruit-VC0706\Adafruit_VC0706.h	60;"	d
+VC0706_MOTIONCONTROL	.\Adafruit-VC0706\Adafruit_VC0706.h	55;"	d
+VC0706_MOTION_CTRL	.\Adafruit-VC0706\Adafruit_VC0706.h	41;"	d
+VC0706_MOTION_STATUS	.\Adafruit-VC0706\Adafruit_VC0706.h	42;"	d
+VC0706_OSD_ADD_CHAR	.\Adafruit-VC0706\Adafruit_VC0706.h	44;"	d
+VC0706_READ_DATA	.\Adafruit-VC0706\Adafruit_VC0706.h	36;"	d
+VC0706_READ_FBUF	.\Adafruit-VC0706\Adafruit_VC0706.h	31;"	d
+VC0706_RESET	.\Adafruit-VC0706\Adafruit_VC0706.h	28;"	d
+VC0706_RESUMEFRAME	.\Adafruit-VC0706\Adafruit_VC0706.h	48;"	d
+VC0706_SET_PORT	.\Adafruit-VC0706\Adafruit_VC0706.h	30;"	d
+VC0706_SET_ZOOM	.\Adafruit-VC0706\Adafruit_VC0706.h	59;"	d
+VC0706_STEPFRAME	.\Adafruit-VC0706\Adafruit_VC0706.h	49;"	d
+VC0706_STOPCURRENTFRAME	.\Adafruit-VC0706\Adafruit_VC0706.h	46;"	d
+VC0706_STOPNEXTFRAME	.\Adafruit-VC0706\Adafruit_VC0706.h	47;"	d
+VC0706_TVOUT_CTRL	.\Adafruit-VC0706\Adafruit_VC0706.h	43;"	d
+VC0706_UARTMOTION	.\Adafruit-VC0706\Adafruit_VC0706.h	56;"	d
+VC0706_WRITE_DATA	.\Adafruit-VC0706\Adafruit_VC0706.h	37;"	d
+_UCGLIB_HH	.\ucglib\src\Ucglib.h	52;"	d
+_UCG_H	.\ucglib\src\clib\ucg.h	82;"	d
+_pg_struct	.\ucglib\src\clib\ucg.h	/^struct _pg_struct$/;"	s
+_ucg_arg_t	.\ucglib\src\clib\ucg.h	/^struct _ucg_arg_t$/;"	s
+_ucg_box_t	.\ucglib\src\clib\ucg.h	/^struct _ucg_box_t$/;"	s
+_ucg_ccs_t	.\ucglib\src\clib\ucg.h	/^struct _ucg_ccs_t$/;"	s
+_ucg_color_t	.\ucglib\src\clib\ucg.h	/^struct _ucg_color_t$/;"	s
+_ucg_com_info_t	.\ucglib\src\clib\ucg.h	/^struct _ucg_com_info_t$/;"	s
+_ucg_font_decode_t	.\ucglib\src\clib\ucg.h	/^struct _ucg_font_decode_t$/;"	s
+_ucg_font_info_t	.\ucglib\src\clib\ucg.h	/^struct _ucg_font_info_t$/;"	s
+_ucg_pixel_t	.\ucglib\src\clib\ucg.h	/^struct _ucg_pixel_t$/;"	s
+_ucg_t	.\ucglib\src\clib\ucg.h	/^struct _ucg_t$/;"	s
+_ucg_wh_t	.\ucglib\src\clib\ucg.h	/^struct _ucg_wh_t$/;"	s
+_ucg_xy_t	.\ucglib\src\clib\ucg.h	/^struct _ucg_xy_t$/;"	s
+actFlasher	.\myLib\src\leds.cpp	/^Ticker actFlasher;$/;"	v
+actLED	.\myLib\src\leds.cpp	/^uint8_t actLED;$/;"	v
+actLedFlash	.\myLib\src\leds.cpp	/^void actLedFlash() {$/;"	f
+actLedFlashStart	.\myLib\src\leds.cpp	/^void actLedFlashStart(float flashTime) {$/;"	f
+actLedFlashStop	.\myLib\src\leds.cpp	/^void actLedFlashStop() {$/;"	f
+arg	.\ucglib\src\clib\ucg.h	/^  ucg_arg_t arg;$/;"	m	struct:_ucg_t
+ascent_A	.\ucglib\src\clib\ucg.h	/^  int8_t  ascent_A;$/;"	m	struct:_ucg_font_info_t
+ascent_para	.\ucglib\src\clib\ucg.h	/^  int8_t  ascent_para;$/;"	m	struct:_ucg_font_info_t
+autoDetectBaudRate	.\Adafruit-VC0706\Adafruit_VC0706.cpp	/^uint32_t Adafruit_VC0706::autoDetectBaudRate() {$/;"	f	class:Adafruit_VC0706
+available	.\Adafruit-VC0706\Adafruit_VC0706.cpp	/^uint8_t Adafruit_VC0706::available(void) {$/;"	f	class:Adafruit_VC0706
+bbx_mode	.\ucglib\src\clib\ucg.h	/^  uint8_t bbx_mode;$/;"	m	struct:_ucg_font_info_t
+begin	.\Adafruit-VC0706\Adafruit_VC0706.cpp	/^boolean Adafruit_VC0706::begin(uint32_t baud) {$/;"	f	class:Adafruit_VC0706
+begin	.\ucglib\src\Ucglib.cpp	/^void Ucglib3Wire9bitHWSPI::begin(uint8_t is_transparent)$/;"	f	class:Ucglib3Wire9bitHWSPI
+begin	.\ucglib\src\Ucglib.cpp	/^void Ucglib3Wire9bitSWSPI::begin(uint8_t is_transparent)$/;"	f	class:Ucglib3Wire9bitSWSPI
+begin	.\ucglib\src\Ucglib.cpp	/^void Ucglib3WireILI9325SWSPI::begin(uint8_t is_transparent)$/;"	f	class:Ucglib3WireILI9325SWSPI
+begin	.\ucglib\src\Ucglib.cpp	/^void Ucglib4WireHWSPI::begin(uint8_t is_transparent)$/;"	f	class:Ucglib4WireHWSPI
+begin	.\ucglib\src\Ucglib.cpp	/^void Ucglib4WireSWSPI::begin(uint8_t is_transparent)$/;"	f	class:Ucglib4WireSWSPI
+begin	.\ucglib\src\Ucglib.cpp	/^void Ucglib8Bit::begin(uint8_t is_transparent)$/;"	f	class:Ucglib8Bit
+begin	.\ucglib\src\Ucglib.cpp	/^void Ucglib8BitPortD::begin(uint8_t is_transparent)$/;"	f	class:Ucglib8BitPortD
+bitmap	.\ucglib\src\clib\ucg.h	/^  const unsigned char *bitmap;$/;"	m	struct:_ucg_arg_t
+bits_per_0	.\ucglib\src\clib\ucg.h	/^  uint8_t bits_per_0;$/;"	m	struct:_ucg_font_info_t
+bits_per_1	.\ucglib\src\clib\ucg.h	/^  uint8_t bits_per_1;$/;"	m	struct:_ucg_font_info_t
+bits_per_char_height	.\ucglib\src\clib\ucg.h	/^  uint8_t bits_per_char_height;$/;"	m	struct:_ucg_font_info_t
+bits_per_char_width	.\ucglib\src\clib\ucg.h	/^  uint8_t bits_per_char_width;$/;"	m	struct:_ucg_font_info_t
+bits_per_char_x	.\ucglib\src\clib\ucg.h	/^  uint8_t bits_per_char_x;$/;"	m	struct:_ucg_font_info_t
+bits_per_char_y	.\ucglib\src\clib\ucg.h	/^  uint8_t bits_per_char_y;$/;"	m	struct:_ucg_font_info_t
+bits_per_delta_x	.\ucglib\src\clib\ucg.h	/^  uint8_t bits_per_delta_x;$/;"	m	struct:_ucg_font_info_t
+bufferLen	.\Adafruit-VC0706\Adafruit_VC0706.h	/^  uint8_t  bufferLen;$/;"	m	class:Adafruit_VC0706
+bytes	.\Adafruit-VC0706\getimage0706.py	/^bytes = getbufferlength()$/;"	v
+bytes	.\Adafruit-VC0706\raspi_camera.py	/^bytes = getbufferlength()$/;"	v
+cameraFrameBuffCtrl	.\Adafruit-VC0706\Adafruit_VC0706.cpp	/^boolean Adafruit_VC0706::cameraFrameBuffCtrl(uint8_t command) {$/;"	f	class:Adafruit_VC0706
+camerabuff	.\Adafruit-VC0706\Adafruit_VC0706.h	/^  uint8_t  camerabuff[CAMERABUFFSIZ+1];$/;"	m	class:Adafruit_VC0706
+ccs_line	.\ucglib\src\clib\ucg.h	/^  ucg_ccs_t ccs_line[3];		\/* color component sliders used by L90SE *\/$/;"	m	struct:_ucg_arg_t
+checkreply	.\Adafruit-VC0706\getimage0706.py	/^def checkreply(r, b):$/;"	f
+checkreply	.\Adafruit-VC0706\raspi_camera.py	/^def checkreply(r, b):$/;"	f
+clearScreen	.\ucglib\src\Ucglib.h	/^    void clearScreen(void) { ucg_ClearScreen(&ucg); }$/;"	f	class:Ucglib
+clip_box	.\ucglib\src\clib\ucg.h	/^  ucg_box_t clip_box;$/;"	m	struct:_ucg_t
+clrbit	.\ucglib\src\Ucglib.cpp	53;"	d	file:
+cnt	.\ucglib\src\clib\ucg.h	/^  uint8_t cnt;$/;"	m	struct:_pg_struct
+color	.\ucglib\src\clib\ucg.h	/^  uint8_t color[3];		\/* 0: Red, 1: Green, 2: Blue *\/$/;"	m	struct:_ucg_color_t
+comFlasher	.\myLib\src\leds.cpp	/^Ticker comFlasher;$/;"	v
+comLED	.\myLib\src\leds.cpp	/^uint8_t comLED;$/;"	v
+comLedFlash	.\myLib\src\leds.cpp	/^void comLedFlash() {$/;"	f
+comLedFlashStart	.\myLib\src\leds.cpp	/^void comLedFlashStart(float flashTime) {$/;"	f
+comLedFlashStop	.\myLib\src\leds.cpp	/^void comLedFlashStop() {$/;"	f
+com_cb	.\ucglib\src\clib\ucg.h	/^  ucg_com_fnptr com_cb;$/;"	m	struct:_ucg_t
+com_cfg_cd	.\ucglib\src\clib\ucg.h	/^  uint8_t com_cfg_cd;		\/* Bit 0: Argument Level, Bit 1: Command Level *\/$/;"	m	struct:_ucg_t
+com_initial_change_sent	.\ucglib\src\clib\ucg.h	/^  uint8_t com_initial_change_sent;	\/* Bit 0: CD\/A0 Line Status, Bit 1: CS Line Status, Bit 2: Reset Line Status *\/$/;"	m	struct:_ucg_t
+com_status	.\ucglib\src\clib\ucg.h	/^  uint8_t com_status;		\/* Bit 0: CD\/A0 Line Status, Bit 1: CS Line Status, Bit 2: Reset Line Status,  Bit 3: 1 for power up *\/$/;"	m	struct:_ucg_t
+common_init	.\Adafruit-VC0706\Adafruit_VC0706.cpp	/^void Adafruit_VC0706::common_init(void) {$/;"	f	class:Adafruit_VC0706
+connectWiFi	.\myLib\src\wifi.cpp	/^IPAddress connectWiFi(IPAddress statIP, IPAddress statGateWay, IPAddress statNetMask, const char* ssidName) {$/;"	f
+connectWiFi	.\myLib\src\wifi.cpp	/^IPAddress connectWiFi(const char* ssidName) {$/;"	f
+curr_idx	.\ucglib\src\clib\ucg.h	/^  uint8_t curr_idx;$/;"	m	struct:pg_edge_struct
+current	.\ucglib\src\clib\ucg.h	/^  uint8_t current;	\/* contains the current color component *\/$/;"	m	struct:_ucg_ccs_t
+current_x	.\ucglib\src\clib\ucg.h	/^  pg_word_t current_x;$/;"	m	struct:pg_edge_struct
+current_x_offset	.\ucglib\src\clib\ucg.h	/^  pg_word_t current_x_offset;$/;"	m	struct:pg_edge_struct
+current_y	.\ucglib\src\clib\ucg.h	/^  pg_word_t current_y;$/;"	m	struct:pg_edge_struct
+data_mask	.\ucglib\src\clib\ucg.h	/^  uint8_t data_mask[UCG_PIN_COUNT];$/;"	m	struct:_ucg_t
+data_port	.\ucglib\src\clib\ucg.h	/^  volatile uint8_t *data_port[UCG_PIN_COUNT];$/;"	m	struct:_ucg_t
+decode_bit_pos	.\ucglib\src\clib\ucg.h	/^  uint8_t decode_bit_pos;			\/* bitpos inside a byte of the compressed data *\/$/;"	m	struct:_ucg_font_decode_t
+decode_ptr	.\ucglib\src\clib\ucg.h	/^  const uint8_t *decode_ptr;			\/* pointer to the compressed data *\/$/;"	m	struct:_ucg_font_decode_t
+den	.\ucglib\src\clib\ucg.h	/^  ucg_int_t den;$/;"	m	struct:_ucg_ccs_t
+descent_g	.\ucglib\src\clib\ucg.h	/^  int8_t  descent_g;$/;"	m	struct:_ucg_font_info_t
+descent_para	.\ucglib\src\clib\ucg.h	/^  int8_t  descent_para;$/;"	m	struct:_ucg_font_info_t
+dev_cb	.\ucglib\src\Ucglib.h	/^    ucg_dev_fnptr dev_cb;$/;"	m	class:Ucglib
+device_cb	.\ucglib\src\clib\ucg.h	/^  ucg_dev_fnptr device_cb;$/;"	m	struct:_ucg_t
+digitalClockDisplay	.\myLib\src\ntp.cpp	/^String digitalClockDisplay() {$/;"	f
+dimension	.\ucglib\src\clib\ucg.h	/^  ucg_wh_t dimension;$/;"	m	struct:_ucg_t
+dir	.\ucglib\src\clib\ucg.h	/^  ucg_int_t dir;		\/* 1 if start < end or -1 if start > end *\/$/;"	m	struct:_ucg_ccs_t
+dir	.\ucglib\src\clib\ucg.h	/^  ucg_int_t dir;$/;"	m	struct:_ucg_arg_t
+dir	.\ucglib\src\clib\ucg.h	/^  uint8_t dir;				\/* direction *\/$/;"	m	struct:_ucg_font_decode_t
+doubleFlasher	.\myLib\src\leds.cpp	/^Ticker doubleFlasher;$/;"	v
+doubleLedFlash	.\myLib\src\leds.cpp	/^void doubleLedFlash() {$/;"	f
+doubleLedFlashStart	.\myLib\src\leds.cpp	/^void doubleLedFlashStart(float flashTime) {$/;"	f
+doubleLedFlashStop	.\myLib\src\leds.cpp	/^void doubleLedFlashStop() {$/;"	f
+drawBox	.\ucglib\src\Ucglib.h	/^    void drawBox(ucg_int_t x, ucg_int_t y, ucg_int_t w, ucg_int_t h) { ucg_DrawBox(&ucg, x, y, w, h); }$/;"	f	class:Ucglib
+drawCircle	.\ucglib\src\Ucglib.h	/^    void drawCircle(ucg_int_t x0, ucg_int_t y0, ucg_int_t rad, uint8_t option) { ucg_DrawCircle(&ucg, x0, y0, rad, option); }$/;"	f	class:Ucglib
+drawDisc	.\ucglib\src\Ucglib.h	/^    void drawDisc(ucg_int_t x0, ucg_int_t y0, ucg_int_t rad, uint8_t option) { ucg_DrawDisc(&ucg, x0, y0, rad, option); }$/;"	f	class:Ucglib
+drawFrame	.\ucglib\src\Ucglib.h	/^    void drawFrame(ucg_int_t x, ucg_int_t y, ucg_int_t w, ucg_int_t h) { ucg_DrawFrame(&ucg, x, y, w, h); }$/;"	f	class:Ucglib
+drawGlyph	.\ucglib\src\Ucglib.h	/^    ucg_int_t drawGlyph(ucg_int_t x, ucg_int_t y, uint8_t dir, uint8_t encoding) { return ucg_DrawGlyph(&ucg, x, y, dir, encoding); }$/;"	f	class:Ucglib
+drawGradientBox	.\ucglib\src\Ucglib.h	/^    void drawGradientBox(ucg_int_t x, ucg_int_t y, ucg_int_t w, ucg_int_t h) { ucg_DrawGradientBox(&ucg, x, y, w, h); }$/;"	f	class:Ucglib
+drawGradientLine	.\ucglib\src\Ucglib.h	/^    void drawGradientLine(ucg_int_t x, ucg_int_t y, ucg_int_t len, ucg_int_t dir) {ucg_DrawGradientLine(&ucg, x, y, len, dir); }$/;"	f	class:Ucglib
+drawHLine	.\ucglib\src\Ucglib.h	/^    void drawHLine(ucg_int_t x, ucg_int_t y, ucg_int_t len) { ucg_DrawHLine(&ucg, x, y, len); }$/;"	f	class:Ucglib
+drawLine	.\ucglib\src\Ucglib.h	/^    void drawLine(ucg_int_t x1, ucg_int_t y1, ucg_int_t x2, ucg_int_t y2) { ucg_DrawLine(&ucg, x1, y1, x2, y2); }$/;"	f	class:Ucglib
+drawPixel	.\ucglib\src\Ucglib.h	/^    void drawPixel(ucg_int_t x, ucg_int_t y) { ucg_DrawPixel(&ucg, x, y); }    $/;"	f	class:Ucglib
+drawRBox	.\ucglib\src\Ucglib.h	/^    void drawRBox(ucg_int_t x, ucg_int_t y, ucg_int_t w, ucg_int_t h, ucg_int_t r) { ucg_DrawRBox(&ucg, x, y, w, h, r); }$/;"	f	class:Ucglib
+drawRFrame	.\ucglib\src\Ucglib.h	/^    void drawRFrame(ucg_int_t x, ucg_int_t y, ucg_int_t w, ucg_int_t h, ucg_int_t r) { ucg_DrawRFrame(&ucg, x, y, w, h, r); }$/;"	f	class:Ucglib
+drawString	.\ucglib\src\Ucglib.h	/^    ucg_int_t drawString(ucg_int_t x, ucg_int_t y, uint8_t dir, const char *str) { return ucg_DrawString(&ucg, x, y, dir, str); }$/;"	f	class:Ucglib
+drawTetragon	.\ucglib\src\Ucglib.h	/^    void drawTetragon(int16_t x0, int16_t y0, int16_t x1, int16_t y1, int16_t x2, int16_t y2, int16_t x3, int16_t y3) { ucg_DrawTetragon(&ucg, x0, y0, x1, y1, x2, y2, x3, y3); }$/;"	f	class:Ucglib
+drawTriangle	.\ucglib\src\Ucglib.h	/^    void drawTriangle(int16_t x0, int16_t y0, int16_t x1, int16_t y1, int16_t x2, int16_t y2) { ucg_DrawTriangle(&ucg, x0, y0, x1, y1, x2, y2); }$/;"	f	class:Ucglib
+drawVLine	.\ucglib\src\Ucglib.h	/^    void drawVLine(ucg_int_t x, ucg_int_t y, ucg_int_t len) { ucg_DrawVLine(&ucg, x, y, len); }$/;"	f	class:Ucglib
+error	.\ucglib\src\clib\ucg.h	/^  pg_word_t error;$/;"	m	struct:pg_edge_struct
+error_offset	.\ucglib\src\clib\ucg.h	/^  pg_word_t error_offset;$/;"	m	struct:pg_edge_struct
+ext_cb	.\ucglib\src\Ucglib.h	/^    ucg_dev_fnptr ext_cb;  $/;"	m	class:Ucglib
+ext_cb	.\ucglib\src\clib\ucg.h	/^  ucg_dev_fnptr ext_cb;$/;"	m	struct:_ucg_t
+f	.\Adafruit-VC0706\getimage0706.py	/^f = open("photo.jpg", 'w')$/;"	v
+f	.\Adafruit-VC0706\raspi_camera.py	/^f = open( "photo.jpg", 'w' )$/;"	v
+font	.\ucglib\src\clib\ucg.h	/^  const unsigned char *font;             \/* current font for all text procedures *\/$/;"	m	struct:_ucg_t
+font_calc_vref	.\ucglib\src\clib\ucg.h	/^  ucg_font_calc_vref_fnptr font_calc_vref;$/;"	m	struct:_ucg_t
+font_decode	.\ucglib\src\clib\ucg.h	/^  ucg_font_decode_t font_decode;		\/* new font decode structure *\/$/;"	m	struct:_ucg_t
+font_height_mode	.\ucglib\src\clib\ucg.h	/^  uint8_t font_height_mode;$/;"	m	struct:_ucg_t
+font_info	.\ucglib\src\clib\ucg.h	/^  ucg_font_info_t font_info;			\/* new font info structure *\/$/;"	m	struct:_ucg_t
+font_ref_ascent	.\ucglib\src\clib\ucg.h	/^  int8_t font_ref_ascent;$/;"	m	struct:_ucg_t
+font_ref_descent	.\ucglib\src\clib\ucg.h	/^  int8_t font_ref_descent;$/;"	m	struct:_ucg_t
+frac	.\ucglib\src\clib\ucg.h	/^  ucg_int_t frac;$/;"	m	struct:_ucg_ccs_t
+frameLength	.\Adafruit-VC0706\Adafruit_VC0706.cpp	/^uint32_t Adafruit_VC0706::frameLength(void) {$/;"	f	class:Adafruit_VC0706
+frameptr	.\Adafruit-VC0706\Adafruit_VC0706.h	/^  uint16_t frameptr;$/;"	m	class:Adafruit_VC0706
+getCompression	.\Adafruit-VC0706\Adafruit_VC0706.cpp	/^uint8_t Adafruit_VC0706::getCompression(void) {$/;"	f	class:Adafruit_VC0706
+getDigits	.\myLib\src\ntp.cpp	/^String getDigits(int digits) {$/;"	f
+getDownsize	.\Adafruit-VC0706\Adafruit_VC0706.cpp	/^uint8_t Adafruit_VC0706::getDownsize(void) {$/;"	f	class:Adafruit_VC0706
+getFontAscent	.\ucglib\src\Ucglib.h	/^    ucg_int_t getFontAscent(void)$/;"	f	class:Ucglib
+getFontDescent	.\ucglib\src\Ucglib.h	/^    ucg_int_t getFontDescent(void)$/;"	f	class:Ucglib
+getHeight	.\ucglib\src\Ucglib.h	/^    ucg_int_t getHeight(void) { return ucg_GetHeight(&ucg); }$/;"	f	class:Ucglib
+getImageSize	.\Adafruit-VC0706\Adafruit_VC0706.cpp	/^uint8_t Adafruit_VC0706::getImageSize() {$/;"	f	class:Adafruit_VC0706
+getMotionDetect	.\Adafruit-VC0706\Adafruit_VC0706.cpp	/^boolean Adafruit_VC0706::getMotionDetect(void) {$/;"	f	class:Adafruit_VC0706
+getMotionStatus	.\Adafruit-VC0706\Adafruit_VC0706.cpp	/^uint8_t Adafruit_VC0706::getMotionStatus(uint8_t x) {$/;"	f	class:Adafruit_VC0706
+getNtpTime	.\myLib\src\ntp.cpp	/^time_t getNtpTime()$/;"	f
+getPTZ	.\Adafruit-VC0706\Adafruit_VC0706.cpp	/^boolean Adafruit_VC0706::getPTZ(uint16_t &w, uint16_t &h, uint16_t &wz, uint16_t &hz, uint16_t &pan, uint16_t &tilt) {$/;"	f	class:Adafruit_VC0706
+getRSSI	.\myLib\src\wifi.cpp	/^int32_t getRSSI() {$/;"	f
+getStrWidth	.\ucglib\src\Ucglib.h	/^    ucg_int_t getStrWidth(const char *s)$/;"	f	class:Ucglib
+getUcg	.\ucglib\src\Ucglib.h	/^    ucg_t *getUcg(void) { return &ucg; }$/;"	f	class:Ucglib
+getVersion	.\Adafruit-VC0706\Adafruit_VC0706.cpp	/^char * Adafruit_VC0706::getVersion(void) {$/;"	f	class:Adafruit_VC0706
+getWidth	.\ucglib\src\Ucglib.h	/^    ucg_int_t getWidth(void) { return ucg_GetWidth(&ucg); }$/;"	f	class:Ucglib
+get_tdir	.\ucglib\src\Ucglib.h	/^    uint8_t& get_tdir(void) { return tdir; };$/;"	f	class:Ucglib
+get_tx	.\ucglib\src\Ucglib.h	/^    ucg_int_t& get_tx(void) { return tx; };$/;"	f	class:Ucglib
+get_ty	.\ucglib\src\Ucglib.h	/^    ucg_int_t& get_ty(void) { return ty; };$/;"	f	class:Ucglib
+get_ucg	.\ucglib\src\Ucglib.h	/^    ucg_t *get_ucg(void) { return &ucg; };$/;"	f	class:Ucglib
+getbufferlength	.\Adafruit-VC0706\getimage0706.py	/^def getbufferlength():$/;"	f
+getbufferlength	.\Adafruit-VC0706\raspi_camera.py	/^def getbufferlength():$/;"	f
+getbufflencommand	.\Adafruit-VC0706\getimage0706.py	/^getbufflencommand = [COMMANDSEND, SERIALNUM, CMD_GETBUFFLEN, 0x01, FBUF_CURRENTFRAME]$/;"	v
+getbufflencommand	.\Adafruit-VC0706\raspi_camera.py	/^getbufflencommand = [COMMANDSEND, SERIALNUM, CMD_GETBUFFLEN, 0x01, FBUF_CURRENTFRAME]$/;"	v
+getversion	.\Adafruit-VC0706\getimage0706.py	/^def getversion():$/;"	f
+getversion	.\Adafruit-VC0706\raspi_camera.py	/^def getversion():$/;"	f
+getversioncommand	.\Adafruit-VC0706\getimage0706.py	/^getversioncommand = [COMMANDSEND, SERIALNUM, CMD_GETVERSION, COMMANDEND]$/;"	v
+getversioncommand	.\Adafruit-VC0706\raspi_camera.py	/^getversioncommand = [COMMANDSEND, SERIALNUM, CMD_GETVERSION, COMMANDEND]$/;"	v
+global_SREG_backup	.\ucglib\src\clib\ucg_init.c	/^uint8_t global_SREG_backup;		\/\/ used by the atomic macros$/;"	v
+glyph_cnt	.\ucglib\src\clib\ucg.h	/^  uint8_t glyph_cnt;$/;"	m	struct:_ucg_font_info_t
+glyph_dx	.\ucglib\src\clib\ucg.h	/^  int8_t glyph_dx;			\/* OBSOLETE *\/$/;"	m	struct:_ucg_t
+glyph_height	.\ucglib\src\clib\ucg.h	/^  int8_t glyph_height;$/;"	m	struct:_ucg_font_decode_t
+glyph_height	.\ucglib\src\clib\ucg.h	/^  uint8_t glyph_height;		\/* OBSOLETE *\/$/;"	m	struct:_ucg_t
+glyph_width	.\ucglib\src\clib\ucg.h	/^  int8_t glyph_width;$/;"	m	struct:_ucg_font_decode_t
+glyph_width	.\ucglib\src\clib\ucg.h	/^  uint8_t glyph_width;		\/* OBSOLETE *\/$/;"	m	struct:_ucg_t
+glyph_x	.\ucglib\src\clib\ucg.h	/^  int8_t glyph_x;			\/* OBSOLETE *\/$/;"	m	struct:_ucg_t
+glyph_y	.\ucglib\src\clib\ucg.h	/^  int8_t glyph_y;			\/* OBSOLETE *\/$/;"	m	struct:_ucg_t
+gotTime	.\myLib\src\ntp.cpp	/^bool gotTime = false;$/;"	v
+h	.\ucglib\src\clib\ucg.h	/^  ucg_int_t h;$/;"	m	struct:_ucg_wh_t
+height	.\ucglib\src\clib\ucg.h	/^  pg_word_t height;$/;"	m	struct:pg_edge_struct
+hwSerial	.\Adafruit-VC0706\Adafruit_VC0706.h	/^  HardwareSerial *hwSerial;$/;"	m	class:Adafruit_VC0706
+init	.\ucglib\src\Ucglib.cpp	/^void Ucglib::init(void) {$/;"	f	class:Ucglib
+initLeds	.\myLib\src\leds.cpp	/^void initLeds(uint8_t reqComLED, uint8_t reqActLED) {$/;"	f
+is_min_y_not_flat	.\ucglib\src\clib\ucg.h	/^  uint8_t is_min_y_not_flat;$/;"	m	struct:_pg_struct
+is_power_up	.\ucglib\src\clib\ucg.h	/^  unsigned is_power_up:1;$/;"	m	struct:_ucg_t
+is_transparent	.\ucglib\src\clib\ucg.h	/^  uint8_t is_transparent;$/;"	m	struct:_ucg_font_decode_t
+lastSsidName	.\myLib\src\wifi.cpp	/^const char* lastSsidName;$/;"	v
+lastStatGateWay	.\myLib\src\wifi.cpp	/^IPAddress lastStatGateWay;$/;"	v
+lastStatIP	.\myLib\src\wifi.cpp	/^IPAddress lastStatIP;$/;"	v
+lastStatNetMask	.\myLib\src\wifi.cpp	/^IPAddress lastStatNetMask;$/;"	v
+leds_h	.\myLib\src\leds.h	2;"	d
+len	.\ucglib\src\clib\ucg.h	/^  ucg_int_t len;$/;"	m	struct:_ucg_arg_t
+list	.\ucglib\src\clib\ucg.h	/^  struct pg_point_struct list[PG_MAX_POINTS];$/;"	m	struct:_pg_struct	typeref:struct:_pg_struct::pg_point_struct
+max_char_height	.\ucglib\src\clib\ucg.h	/^  int8_t max_char_height; \/* overall height, NOT ascent. Instead ascent = max_char_height + y_offset *\/$/;"	m	struct:_ucg_font_info_t
+max_char_width	.\ucglib\src\clib\ucg.h	/^  int8_t max_char_width;$/;"	m	struct:_ucg_font_info_t
+max_y	.\ucglib\src\clib\ucg.h	/^  pg_word_t max_y;$/;"	m	struct:pg_edge_struct
+motionDetected	.\Adafruit-VC0706\Adafruit_VC0706.cpp	/^boolean Adafruit_VC0706::motionDetected() {$/;"	f	class:Adafruit_VC0706
+mqttBroker	.\myLib\src\wifiAPinfo.h	/^static const char * mqttBroker = "93.104.213.79";$/;"	v
+mqttID	.\myLib\src\wifiAPinfo.h	/^static const char * mqttID = "Monitor";$/;"	v
+mqttPwd	.\myLib\src\wifiAPinfo.h	/^static const char * mqttPwd = "teresa1963";$/;"	v
+mqttUser	.\myLib\src\wifiAPinfo.h	/^static const char * mqttUser = "home";$/;"	v
+next_idx_fn	.\ucglib\src\clib\ucg.h	/^  uint8_t (*next_idx_fn)(pg_struct *pg, uint8_t i);$/;"	m	struct:pg_edge_struct
+ntp_h	.\myLib\src\ntp.h	2;"	d
+num	.\ucglib\src\clib\ucg.h	/^  ucg_int_t num;$/;"	m	struct:_ucg_ccs_t
+offset	.\ucglib\src\clib\ucg.h	/^  ucg_int_t offset;			\/* calculated offset from the inital point to the start of the clip window (ucg_clip_l90fx) *\/$/;"	m	struct:_ucg_arg_t
+packetBuffer	.\myLib\src\ntp.cpp	/^byte packetBuffer[NTP_PACKET_SIZE]; \/\/buffer to hold incoming & outgoing packets$/;"	v
+parallel_clk_speed	.\ucglib\src\clib\ucg.h	/^  uint16_t parallel_clk_speed;$/;"	m	struct:_ucg_com_info_t
+password	.\myLib\src\wifiAPinfo.h	/^static const char* password = "teresa1963";$/;"	v
+pg_AddPolygonXY	.\ucglib\src\clib\ucg_polygon.c	/^void pg_AddPolygonXY(pg_struct *pg, ucg_t *ucg, int16_t x, int16_t y)$/;"	f
+pg_ClearPolygonXY	.\ucglib\src\clib\ucg_polygon.c	/^void pg_ClearPolygonXY(pg_struct *pg)$/;"	f
+pg_DrawPolygon	.\ucglib\src\clib\ucg_polygon.c	/^void pg_DrawPolygon(pg_struct *pg, ucg_t *ucg)$/;"	f
+pg_dec	.\ucglib\src\clib\ucg_polygon.c	/^static uint8_t pg_dec(pg_struct *pg, uint8_t i)$/;"	f	file:
+pg_edge_struct	.\ucglib\src\clib\ucg.h	/^struct pg_edge_struct$/;"	s
+pg_exec	.\ucglib\src\clib\ucg_polygon.c	/^static void pg_exec(pg_struct *pg, ucg_t *ucg)$/;"	f	file:
+pg_expand_min_y	.\ucglib\src\clib\ucg_polygon.c	/^static void pg_expand_min_y(pg_struct *pg, pg_word_t min_y, uint8_t pge_idx)$/;"	f	file:
+pg_hline	.\ucglib\src\clib\ucg_polygon.c	/^static void pg_hline(pg_struct *pg, ucg_t *ucg)$/;"	f	file:
+pg_inc	.\ucglib\src\clib\ucg_polygon.c	/^static uint8_t pg_inc(pg_struct *pg, uint8_t i)$/;"	f	file:
+pg_line_init	.\ucglib\src\clib\ucg_polygon.c	/^static void pg_line_init(pg_struct * pg, uint8_t pge_index)$/;"	f	file:
+pg_point_struct	.\ucglib\src\clib\ucg.h	/^struct pg_point_struct$/;"	s
+pg_prepare	.\ucglib\src\clib\ucg_polygon.c	/^static uint8_t pg_prepare(pg_struct *pg)$/;"	f	file:
+pg_struct	.\ucglib\src\clib\ucg.h	/^typedef struct _pg_struct pg_struct;	\/* forward declaration *\/$/;"	t	typeref:struct:_pg_struct
+pg_word_t	.\ucglib\src\clib\ucg.h	/^typedef int16_t pg_word_t;$/;"	t
+pge	.\ucglib\src\clib\ucg.h	/^  struct pg_edge_struct pge[2];	\/* left and right line draw structures *\/$/;"	m	struct:_pg_struct	typeref:struct:_pg_struct::pg_edge_struct
+pge_Init	.\ucglib\src\clib\ucg_polygon.c	/^static void pge_Init(struct pg_edge_struct *pge, pg_word_t x1, pg_word_t y1, pg_word_t x2, pg_word_t y2)$/;"	f	file:
+pge_Next	.\ucglib\src\clib\ucg_polygon.c	/^static uint8_t pge_Next(struct pg_edge_struct *pge)$/;"	f	file:
+photo	.\Adafruit-VC0706\getimage0706.py	/^photo = readbuffer(bytes)$/;"	v
+photo	.\Adafruit-VC0706\raspi_camera.py	/^photo = readbuffer( bytes )$/;"	v
+photodata	.\Adafruit-VC0706\getimage0706.py	/^photodata = ''.join(photo)$/;"	v
+photodata	.\Adafruit-VC0706\raspi_camera.py	/^photodata = ''.join( photo )$/;"	v
+pin_list	.\ucglib\src\clib\ucg.h	/^  uint8_t pin_list[UCG_PIN_COUNT];$/;"	m	struct:_ucg_t
+pixel	.\ucglib\src\clib\ucg.h	/^  ucg_pixel_t pixel;$/;"	m	struct:_ucg_arg_t
+pixel_skip	.\ucglib\src\clib\ucg.h	/^  ucg_int_t pixel_skip;		\/* within the "bitmap" skip the specified number of pixel with the bit. pixel_skip is always <= 7 *\/$/;"	m	struct:_ucg_arg_t
+pos	.\ucglib\src\clib\ucg.h	/^  ucg_xy_t pos;$/;"	m	struct:_ucg_pixel_t
+powerDown	.\ucglib\src\Ucglib.h	/^    void powerDown(void) { ucg_PowerDown(&ucg); }$/;"	f	class:Ucglib
+powerUp	.\ucglib\src\Ucglib.h	/^    void powerUp(void) { ucg_PowerUp(&ucg); }$/;"	f	class:Ucglib
+printBuff	.\Adafruit-VC0706\Adafruit_VC0706.cpp	/^void Adafruit_VC0706::printBuff() {$/;"	f	class:Adafruit_VC0706
+quot	.\ucglib\src\clib\ucg.h	/^  ucg_int_t quot;$/;"	m	struct:_ucg_ccs_t
+reConnectWiFi	.\myLib\src\wifi.cpp	/^void reConnectWiFi() {$/;"	f
+readPicture	.\Adafruit-VC0706\Adafruit_VC0706.cpp	/^uint8_t * Adafruit_VC0706::readPicture(uint8_t n) {$/;"	f	class:Adafruit_VC0706
+readResponse	.\Adafruit-VC0706\Adafruit_VC0706.cpp	/^uint8_t Adafruit_VC0706::readResponse(uint8_t numbytes, uint8_t timeout) {$/;"	f	class:Adafruit_VC0706
+readbuffer	.\Adafruit-VC0706\getimage0706.py	/^def readbuffer(bytes):$/;"	f
+readbuffer	.\Adafruit-VC0706\raspi_camera.py	/^def readbuffer(bytes):$/;"	f
+readphotocommand	.\Adafruit-VC0706\getimage0706.py	/^readphotocommand = [COMMANDSEND, SERIALNUM, CMD_READBUFF, 0x0c, FBUF_CURRENTFRAME, 0x0a]$/;"	v
+readphotocommand	.\Adafruit-VC0706\raspi_camera.py	/^readphotocommand = [COMMANDSEND, SERIALNUM, CMD_READBUFF, 0x0c, FBUF_CURRENTFRAME, 0x0a]$/;"	v
+rem	.\ucglib\src\clib\ucg.h	/^  ucg_int_t rem;$/;"	m	struct:_ucg_ccs_t
+reset	.\Adafruit-VC0706\Adafruit_VC0706.cpp	/^boolean Adafruit_VC0706::reset() {$/;"	f	class:Adafruit_VC0706
+reset	.\Adafruit-VC0706\getimage0706.py	/^def reset():$/;"	f
+reset	.\Adafruit-VC0706\raspi_camera.py	/^def reset():$/;"	f
+resetWiFiCredentials	.\myLib\src\wifi.cpp	/^void resetWiFiCredentials() {$/;"	f
+resetcommand	.\Adafruit-VC0706\getimage0706.py	/^resetcommand = [COMMANDSEND, SERIALNUM, CMD_RESET, COMMANDEND]$/;"	v
+resetcommand	.\Adafruit-VC0706\raspi_camera.py	/^resetcommand = [COMMANDSEND, SERIALNUM, CMD_RESET, COMMANDEND]$/;"	v
+resumeVideo	.\Adafruit-VC0706\Adafruit_VC0706.cpp	/^boolean Adafruit_VC0706::resumeVideo() {$/;"	f	class:Adafruit_VC0706
+rgb	.\ucglib\src\clib\ucg.h	/^  ucg_color_t rgb;$/;"	m	struct:_ucg_pixel_t
+rgb	.\ucglib\src\clib\ucg.h	/^  ucg_color_t rgb[4];			\/* start and end color for L90SE , two more colors for the gradient box *\/$/;"	m	struct:_ucg_arg_t
+rotate_chain_device_cb	.\ucglib\src\clib\ucg.h	/^  ucg_dev_fnptr rotate_chain_device_cb;$/;"	m	struct:_ucg_t
+rotate_dimension	.\ucglib\src\clib\ucg.h	/^  ucg_wh_t rotate_dimension;$/;"	m	struct:_ucg_t
+runCommand	.\Adafruit-VC0706\Adafruit_VC0706.cpp	/^boolean Adafruit_VC0706::runCommand(uint8_t cmd, uint8_t *args, uint8_t argn,$/;"	f	class:Adafruit_VC0706
+s	.\Adafruit-VC0706\getimage0706.py	/^s = serial.Serial(PORT, baudrate=BAUD, timeout=TIMEOUT)$/;"	v
+s	.\Adafruit-VC0706\raspi_camera.py	/^s = serial.Serial( PORT, baudrate=BAUD, timeout = TIMEOUT )$/;"	v
+scale	.\ucglib\src\clib\ucg.h	/^  ucg_int_t scale;			\/* upscale factor, used by UCG_MSG_DRAW_L90BF *\/$/;"	m	struct:_ucg_arg_t
+scale_chain_device_cb	.\ucglib\src\clib\ucg.h	/^  ucg_dev_fnptr scale_chain_device_cb;$/;"	m	struct:_ucg_t
+sendCommand	.\Adafruit-VC0706\Adafruit_VC0706.cpp	/^void Adafruit_VC0706::sendCommand(uint8_t cmd, uint8_t args[] = 0, uint8_t argn = 0) {$/;"	f	class:Adafruit_VC0706
+sendDebug	.\myLib\src\wifi.cpp	/^void sendDebug(String debugMsg, String senderID) {$/;"	f
+sendNTPpacket	.\myLib\src\ntp.cpp	/^void sendNTPpacket(WiFiUDP udpNTP)$/;"	f
+serial	.\Adafruit-VC0706\getimage0706.py	/^import serial$/;"	i
+serial	.\Adafruit-VC0706\raspi_camera.py	/^import serial $/;"	i
+serialNum	.\Adafruit-VC0706\Adafruit_VC0706.h	/^  uint8_t  serialNum;$/;"	m	class:Adafruit_VC0706
+serial_clk_speed	.\ucglib\src\clib\ucg.h	/^  uint16_t serial_clk_speed;$/;"	m	struct:_ucg_com_info_t
+setBaud115200	.\Adafruit-VC0706\Adafruit_VC0706.cpp	/^char* Adafruit_VC0706::setBaud115200() {$/;"	f	class:Adafruit_VC0706
+setBaud19200	.\Adafruit-VC0706\Adafruit_VC0706.cpp	/^char* Adafruit_VC0706::setBaud19200() {$/;"	f	class:Adafruit_VC0706
+setBaud38400	.\Adafruit-VC0706\Adafruit_VC0706.cpp	/^char* Adafruit_VC0706::setBaud38400() {$/;"	f	class:Adafruit_VC0706
+setBaud57600	.\Adafruit-VC0706\Adafruit_VC0706.cpp	/^char* Adafruit_VC0706::setBaud57600() {$/;"	f	class:Adafruit_VC0706
+setBaud9600	.\Adafruit-VC0706\Adafruit_VC0706.cpp	/^char* Adafruit_VC0706::setBaud9600() {$/;"	f	class:Adafruit_VC0706
+setClipRange	.\ucglib\src\Ucglib.h	/^    void setClipRange(ucg_int_t x, ucg_int_t y, ucg_int_t w, ucg_int_t h) { ucg_SetClipRange(&ucg, x,y,w,h); }$/;"	f	class:Ucglib
+setColor	.\ucglib\src\Ucglib.h	/^    void setColor(uint8_t idx, uint8_t r, uint8_t g, uint8_t b)$/;"	f	class:Ucglib
+setColor	.\ucglib\src\Ucglib.h	/^    void setColor(uint8_t r, uint8_t g, uint8_t b)$/;"	f	class:Ucglib
+setCompression	.\Adafruit-VC0706\Adafruit_VC0706.cpp	/^boolean Adafruit_VC0706::setCompression(uint8_t c) {$/;"	f	class:Adafruit_VC0706
+setDownsize	.\Adafruit-VC0706\Adafruit_VC0706.cpp	/^boolean Adafruit_VC0706::setDownsize(uint8_t newsize) {$/;"	f	class:Adafruit_VC0706
+setFont	.\ucglib\src\Ucglib.h	/^    void setFont(const ucg_fntpgm_uint8_t  *font)$/;"	f	class:Ucglib
+setFontMode	.\ucglib\src\Ucglib.h	/^    void setFontMode(uint8_t is_transparent) $/;"	f	class:Ucglib
+setFontPosBaseline	.\ucglib\src\Ucglib.h	/^    void setFontPosBaseline(void) 	{ ucg_SetFontPosBaseline(&ucg); }$/;"	f	class:Ucglib
+setFontPosBottom	.\ucglib\src\Ucglib.h	/^    void setFontPosBottom(void) 	{ ucg_SetFontPosBottom(&ucg); }$/;"	f	class:Ucglib
+setFontPosCenter	.\ucglib\src\Ucglib.h	/^    void setFontPosCenter(void) 	{ ucg_SetFontPosCenter(&ucg); }$/;"	f	class:Ucglib
+setFontPosTop	.\ucglib\src\Ucglib.h	/^    void setFontPosTop(void) 		{ ucg_SetFontPosTop(&ucg); }$/;"	f	class:Ucglib
+setFontRefHeightAll	.\ucglib\src\Ucglib.h	/^    void setFontRefHeightAll(void) 	{ ucg_SetFontRefHeightAll(&ucg); }$/;"	f	class:Ucglib
+setFontRefHeightExtendedText	.\ucglib\src\Ucglib.h	/^    void setFontRefHeightExtendedText(void) { ucg_SetFontRefHeightExtendedText(&ucg); }$/;"	f	class:Ucglib
+setFontRefHeightText	.\ucglib\src\Ucglib.h	/^    void setFontRefHeightText(void) 	{ ucg_SetFontRefHeightText(&ucg); }$/;"	f	class:Ucglib
+setImageSize	.\Adafruit-VC0706\Adafruit_VC0706.cpp	/^boolean Adafruit_VC0706::setImageSize(uint8_t x) {$/;"	f	class:Adafruit_VC0706
+setMaxClipRange	.\ucglib\src\Ucglib.h	/^    void setMaxClipRange(void) { ucg_SetMaxClipRange(&ucg); }$/;"	f	class:Ucglib
+setMotionDetect	.\Adafruit-VC0706\Adafruit_VC0706.cpp	/^boolean Adafruit_VC0706::setMotionDetect(boolean flag) {$/;"	f	class:Adafruit_VC0706
+setMotionStatus	.\Adafruit-VC0706\Adafruit_VC0706.cpp	/^boolean Adafruit_VC0706::setMotionStatus(uint8_t x, uint8_t d1, uint8_t d2) {$/;"	f	class:Adafruit_VC0706
+setPTZ	.\Adafruit-VC0706\Adafruit_VC0706.cpp	/^boolean Adafruit_VC0706::setPTZ(uint16_t wz, uint16_t hz, uint16_t pan, uint16_t tilt) {$/;"	f	class:Adafruit_VC0706
+setPrintDir	.\ucglib\src\Ucglib.h	/^    void setPrintDir(uint8_t dir) { tdir = dir; }$/;"	f	class:Ucglib
+setPrintPos	.\ucglib\src\Ucglib.h	/^    void setPrintPos(ucg_int_t x, ucg_int_t y) { tx = x; ty = y; }$/;"	f	class:Ucglib
+setRotate180	.\ucglib\src\Ucglib.h	/^    void setRotate180(void) { ucg_SetRotate180(&ucg); }$/;"	f	class:Ucglib
+setRotate270	.\ucglib\src\Ucglib.h	/^    void setRotate270(void) { ucg_SetRotate270(&ucg); }$/;"	f	class:Ucglib
+setRotate90	.\ucglib\src\Ucglib.h	/^    void setRotate90(void) { ucg_SetRotate90(&ucg); }$/;"	f	class:Ucglib
+setScale2x2	.\ucglib\src\Ucglib.h	/^    void setScale2x2(void) { ucg_SetScale2x2(&ucg); }$/;"	f	class:Ucglib
+setbit	.\ucglib\src\Ucglib.cpp	52;"	d	file:
+size	.\ucglib\src\clib\ucg.h	/^  ucg_wh_t size;$/;"	m	struct:_ucg_box_t
+ssid	.\myLib\src\wifiAPinfo.h	/^static const char* ssid = "Teresa&Bernd";$/;"	v
+start	.\ucglib\src\clib\ucg.h	/^  uint8_t start;$/;"	m	struct:_ucg_ccs_t
+start_pos_lower_a	.\ucglib\src\clib\ucg.h	/^  uint16_t start_pos_lower_a;$/;"	m	struct:_ucg_font_info_t
+start_pos_upper_A	.\ucglib\src\clib\ucg.h	/^  uint16_t start_pos_upper_A;$/;"	m	struct:_ucg_font_info_t
+swSerial	.\Adafruit-VC0706\Adafruit_VC0706.h	/^    NewSoftSerial  *swSerial;$/;"	m	class:Adafruit_VC0706
+swSerial	.\Adafruit-VC0706\Adafruit_VC0706.h	/^    SoftwareSerial *swSerial;$/;"	m	class:Adafruit_VC0706
+takePicture	.\Adafruit-VC0706\Adafruit_VC0706.cpp	/^boolean Adafruit_VC0706::takePicture() {$/;"	f	class:Adafruit_VC0706
+takephoto	.\Adafruit-VC0706\getimage0706.py	/^def takephoto():$/;"	f
+takephoto	.\Adafruit-VC0706\raspi_camera.py	/^def takephoto():$/;"	f
+takephotocommand	.\Adafruit-VC0706\getimage0706.py	/^takephotocommand = [COMMANDSEND, SERIALNUM, CMD_TAKEPHOTO, 0x01, FBUF_STOPCURRENTFRAME]$/;"	v
+takephotocommand	.\Adafruit-VC0706\raspi_camera.py	/^takephotocommand = [COMMANDSEND, SERIALNUM, CMD_TAKEPHOTO, 0x01, FBUF_STOPCURRENTFRAME]$/;"	v
+target_x	.\ucglib\src\clib\ucg.h	/^  ucg_int_t target_x;$/;"	m	struct:_ucg_font_decode_t
+target_y	.\ucglib\src\clib\ucg.h	/^  ucg_int_t target_y;$/;"	m	struct:_ucg_font_decode_t
+tdir	.\ucglib\src\Ucglib.h	/^    uint8_t tdir;$/;"	m	class:Ucglib
+total_scan_line_cnt	.\ucglib\src\clib\ucg.h	/^  pg_word_t total_scan_line_cnt;$/;"	m	struct:_pg_struct
+tryGetTime	.\myLib\src\ntp.cpp	/^bool tryGetTime() {$/;"	f
+tx	.\ucglib\src\Ucglib.h	/^    ucg_int_t tx, ty;          \/\/ current position for the Print base class procedures$/;"	m	class:Ucglib
+ty	.\ucglib\src\Ucglib.h	/^    ucg_int_t tx, ty;          \/\/ current position for the Print base class procedures$/;"	m	class:Ucglib
+u8g_GetFontBBXOffX	.\ucglib\src\clib\ucg_font.c	/^int8_t u8g_GetFontBBXOffX(ucg_t *ucg)$/;"	f
+u8g_bitClock	.\ucglib\src\Ucglib.cpp	/^uint8_t u8g_bitClock, u8g_bitNotClock;$/;"	v
+u8g_bitData	.\ucglib\src\Ucglib.cpp	/^uint8_t u8g_bitData, u8g_bitNotData;$/;"	v
+u8g_bitNotClock	.\ucglib\src\Ucglib.cpp	/^uint8_t u8g_bitClock, u8g_bitNotClock;$/;"	v
+u8g_bitNotData	.\ucglib\src\Ucglib.cpp	/^uint8_t u8g_bitData, u8g_bitNotData;$/;"	v
+u8g_data_mask	.\ucglib\src\Ucglib.cpp	/^static uint32_t u8g_data_mask[9];$/;"	v	file:
+u8g_data_port	.\ucglib\src\Ucglib.cpp	/^static volatile uint32_t *u8g_data_port[9];$/;"	v	file:
+u8g_outClock	.\ucglib\src\Ucglib.cpp	/^volatile uint8_t *u8g_outClock;$/;"	v
+u8g_outData	.\ucglib\src\Ucglib.cpp	/^volatile uint8_t *u8g_outData;$/;"	v
+ucg	.\ucglib\src\Ucglib.h	/^    ucg_t ucg;$/;"	m	class:Ucglib
+ucg_AddPolygonXY	.\ucglib\src\clib\ucg_polygon.c	/^void ucg_AddPolygonXY(ucg_t *ucg, int16_t x, int16_t y)$/;"	f
+ucg_ClearPolygonXY	.\ucglib\src\clib\ucg_polygon.c	/^void ucg_ClearPolygonXY(void)$/;"	f
+ucg_ClearScreen	.\ucglib\src\clib\ucg_box.c	/^void ucg_ClearScreen(ucg_t *ucg)$/;"	f
+ucg_Draw90Line	.\ucglib\src\clib\ucg_line.c	/^void ucg_Draw90Line(ucg_t *ucg, ucg_int_t x, ucg_int_t y, ucg_int_t len, ucg_int_t dir, ucg_int_t col_idx)$/;"	f
+ucg_DrawBitmapLine	.\ucglib\src\clib\ucg_bitmap.c	/^void ucg_DrawBitmapLine(ucg_t *ucg, ucg_int_t x, ucg_int_t y, ucg_int_t dir, ucg_int_t len, const unsigned char *bitmap)$/;"	f
+ucg_DrawBox	.\ucglib\src\clib\ucg_box.c	/^void ucg_DrawBox(ucg_t *ucg, ucg_int_t x, ucg_int_t y, ucg_int_t w, ucg_int_t h)$/;"	f
+ucg_DrawCircle	.\ucglib\src\clib\ucg_circle.c	/^void ucg_DrawCircle(ucg_t *ucg, ucg_int_t x0, ucg_int_t y0, ucg_int_t rad, uint8_t option)$/;"	f
+ucg_DrawDisc	.\ucglib\src\clib\ucg_circle.c	/^void ucg_DrawDisc(ucg_t *ucg, ucg_int_t x0, ucg_int_t y0, ucg_int_t rad, uint8_t option)$/;"	f
+ucg_DrawFrame	.\ucglib\src\clib\ucg_box.c	/^void ucg_DrawFrame(ucg_t *ucg, ucg_int_t x, ucg_int_t y, ucg_int_t w, ucg_int_t h)$/;"	f
+ucg_DrawGlyph	.\ucglib\src\clib\ucg_font.c	/^ucg_int_t ucg_DrawGlyph(ucg_t *ucg, ucg_int_t x, ucg_int_t y, uint8_t dir, uint8_t encoding)$/;"	f
+ucg_DrawGradientBox	.\ucglib\src\clib\ucg_box.c	/^void ucg_DrawGradientBox(ucg_t *ucg, ucg_int_t x, ucg_int_t y, ucg_int_t w, ucg_int_t h)$/;"	f
+ucg_DrawGradientLine	.\ucglib\src\clib\ucg_line.c	/^void ucg_DrawGradientLine(ucg_t *ucg, ucg_int_t x, ucg_int_t y, ucg_int_t len, ucg_int_t dir)$/;"	f
+ucg_DrawHLine	.\ucglib\src\clib\ucg_line.c	/^void ucg_DrawHLine(ucg_t *ucg, ucg_int_t x, ucg_int_t y, ucg_int_t len)$/;"	f
+ucg_DrawHRLine	.\ucglib\src\clib\ucg_line.c	/^void ucg_DrawHRLine(ucg_t *ucg, ucg_int_t x, ucg_int_t y, ucg_int_t len)$/;"	f
+ucg_DrawL90BFWithArg	.\ucglib\src\clib\ucg_dev_msg_api.c	/^void ucg_DrawL90BFWithArg(ucg_t *ucg)$/;"	f
+ucg_DrawL90FXWithArg	.\ucglib\src\clib\ucg_dev_msg_api.c	/^void ucg_DrawL90FXWithArg(ucg_t *ucg)$/;"	f
+ucg_DrawL90SEWithArg	.\ucglib\src\clib\ucg_dev_msg_api.c	/^void ucg_DrawL90SEWithArg(ucg_t *ucg)$/;"	f
+ucg_DrawL90TCWithArg	.\ucglib\src\clib\ucg_dev_msg_api.c	/^void ucg_DrawL90TCWithArg(ucg_t *ucg)$/;"	f
+ucg_DrawLine	.\ucglib\src\clib\ucg_line.c	/^void ucg_DrawLine(ucg_t *ucg, ucg_int_t x1, ucg_int_t y1, ucg_int_t x2, ucg_int_t y2)$/;"	f
+ucg_DrawPixel	.\ucglib\src\clib\ucg_pixel.c	/^void ucg_DrawPixel(ucg_t *ucg, ucg_int_t x, ucg_int_t y)$/;"	f
+ucg_DrawPixelWithArg	.\ucglib\src\clib\ucg_dev_msg_api.c	/^void ucg_DrawPixelWithArg(ucg_t *ucg)$/;"	f
+ucg_DrawPolygon	.\ucglib\src\clib\ucg_polygon.c	/^void ucg_DrawPolygon(ucg_t *ucg)$/;"	f
+ucg_DrawRBox	.\ucglib\src\clib\ucg_box.c	/^void ucg_DrawRBox(ucg_t *ucg, ucg_int_t x, ucg_int_t y, ucg_int_t w, ucg_int_t h, ucg_int_t r)$/;"	f
+ucg_DrawRFrame	.\ucglib\src\clib\ucg_box.c	/^void ucg_DrawRFrame(ucg_t *ucg, ucg_int_t x, ucg_int_t y, ucg_int_t w, ucg_int_t h, ucg_int_t r)$/;"	f
+ucg_DrawRLBitmap	.\ucglib\src\clib\ucg_bitmap.c	/^void ucg_DrawRLBitmap(ucg_t *ucg, ucg_int_t x, ucg_int_t y, ucg_int_t dir, const unsigned char *rl_bitmap)$/;"	f
+ucg_DrawString	.\ucglib\src\clib\ucg_font.c	/^ucg_int_t ucg_DrawString(ucg_t *ucg, ucg_int_t x, ucg_int_t y, uint8_t dir, const char *str)$/;"	f
+ucg_DrawTetragon	.\ucglib\src\clib\ucg_polygon.c	/^void ucg_DrawTetragon(ucg_t *ucg, int16_t x0, int16_t y0, int16_t x1, int16_t y1, int16_t x2, int16_t y2, int16_t x3, int16_t y3)$/;"	f
+ucg_DrawTransparentBitmapLine	.\ucglib\src\clib\ucg_bitmap.c	/^void ucg_DrawTransparentBitmapLine(ucg_t *ucg, ucg_int_t x, ucg_int_t y, ucg_int_t dir, ucg_int_t len, const unsigned char *bitmap)$/;"	f
+ucg_DrawTriangle	.\ucglib\src\clib\ucg_polygon.c	/^void ucg_DrawTriangle(ucg_t *ucg, int16_t x0, int16_t y0, int16_t x1, int16_t y1, int16_t x2, int16_t y2)$/;"	f
+ucg_DrawVLine	.\ucglib\src\clib\ucg_line.c	/^void ucg_DrawVLine(ucg_t *ucg, ucg_int_t x, ucg_int_t y, ucg_int_t len)$/;"	f
+ucg_GetDimension	.\ucglib\src\clib\ucg_dev_msg_api.c	/^void ucg_GetDimension(ucg_t *ucg)$/;"	f
+ucg_GetFontAscent	.\ucglib\src\clib\ucg.h	731;"	d
+ucg_GetFontBBXHeight	.\ucglib\src\clib\ucg_font.c	/^uint8_t ucg_GetFontBBXHeight(ucg_t *ucg)$/;"	f
+ucg_GetFontBBXOffY	.\ucglib\src\clib\ucg_font.c	/^int8_t ucg_GetFontBBXOffY(ucg_t *ucg)$/;"	f
+ucg_GetFontBBXWidth	.\ucglib\src\clib\ucg_font.c	/^uint8_t ucg_GetFontBBXWidth(ucg_t *ucg)$/;"	f
+ucg_GetFontCapitalAHeight	.\ucglib\src\clib\ucg_font.c	/^uint8_t ucg_GetFontCapitalAHeight(ucg_t *ucg)$/;"	f
+ucg_GetFontDescent	.\ucglib\src\clib\ucg.h	732;"	d
+ucg_GetGlyphWidth	.\ucglib\src\clib\ucg_font.c	/^int8_t ucg_GetGlyphWidth(ucg_t *ucg, uint8_t requested_encoding)$/;"	f
+ucg_GetHeight	.\ucglib\src\clib\ucg.h	434;"	d
+ucg_GetStrWidth	.\ucglib\src\clib\ucg_font.c	/^ucg_int_t ucg_GetStrWidth(ucg_t *ucg, const char *s)$/;"	f
+ucg_GetWidth	.\ucglib\src\clib\ucg.h	433;"	d
+ucg_Init	.\ucglib\src\clib\ucg_init.c	/^ucg_int_t ucg_Init(ucg_t *ucg, ucg_dev_fnptr device_cb, ucg_dev_fnptr ext_cb, ucg_com_fnptr com_cb)$/;"	f
+ucg_IsGlyph	.\ucglib\src\clib\ucg_font.c	/^uint8_t ucg_IsGlyph(ucg_t *ucg, uint8_t requested_encoding)$/;"	f
+ucg_PowerDown	.\ucglib\src\clib\ucg_dev_msg_api.c	/^void ucg_PowerDown(ucg_t *ucg)$/;"	f
+ucg_PowerUp	.\ucglib\src\clib\ucg_dev_msg_api.c	/^ucg_int_t ucg_PowerUp(ucg_t *ucg)$/;"	f
+ucg_SetClipBox	.\ucglib\src\clib\ucg_dev_msg_api.c	/^void ucg_SetClipBox(ucg_t *ucg, ucg_box_t *clip_box)$/;"	f
+ucg_SetClipRange	.\ucglib\src\clib\ucg_dev_msg_api.c	/^void ucg_SetClipRange(ucg_t *ucg, ucg_int_t x, ucg_int_t y, ucg_int_t w, ucg_int_t h)$/;"	f
+ucg_SetColor	.\ucglib\src\clib\ucg_pixel.c	/^void ucg_SetColor(ucg_t *ucg, uint8_t idx, uint8_t r, uint8_t g, uint8_t b)$/;"	f
+ucg_SetFont	.\ucglib\src\clib\ucg_font.c	/^void ucg_SetFont(ucg_t *ucg, const ucg_fntpgm_uint8_t  *font)$/;"	f
+ucg_SetFontMode	.\ucglib\src\clib\ucg_font.c	/^void ucg_SetFontMode(ucg_t *ucg, uint8_t is_transparent)$/;"	f
+ucg_SetFontPosBaseline	.\ucglib\src\clib\ucg_font.c	/^void ucg_SetFontPosBaseline(ucg_t *ucg)$/;"	f
+ucg_SetFontPosBottom	.\ucglib\src\clib\ucg_font.c	/^void ucg_SetFontPosBottom(ucg_t *ucg)$/;"	f
+ucg_SetFontPosCenter	.\ucglib\src\clib\ucg_font.c	/^void ucg_SetFontPosCenter(ucg_t *ucg)$/;"	f
+ucg_SetFontPosTop	.\ucglib\src\clib\ucg_font.c	/^void ucg_SetFontPosTop(ucg_t *ucg)$/;"	f
+ucg_SetFontRefHeightAll	.\ucglib\src\clib\ucg_font.c	/^void ucg_SetFontRefHeightAll(ucg_t *ucg)$/;"	f
+ucg_SetFontRefHeightExtendedText	.\ucglib\src\clib\ucg_font.c	/^void ucg_SetFontRefHeightExtendedText(ucg_t *ucg)$/;"	f
+ucg_SetFontRefHeightText	.\ucglib\src\clib\ucg_font.c	/^void ucg_SetFontRefHeightText(ucg_t *ucg)$/;"	f
+ucg_SetMaxClipRange	.\ucglib\src\clib\ucg_dev_msg_api.c	/^void ucg_SetMaxClipRange(ucg_t *ucg)$/;"	f
+ucg_SetRotate180	.\ucglib\src\clib\ucg_rotate.c	/^void ucg_SetRotate180(ucg_t *ucg)$/;"	f
+ucg_SetRotate270	.\ucglib\src\clib\ucg_rotate.c	/^void ucg_SetRotate270(ucg_t *ucg)$/;"	f
+ucg_SetRotate90	.\ucglib\src\clib\ucg_rotate.c	/^void ucg_SetRotate90(ucg_t *ucg)$/;"	f
+ucg_SetScale2x2	.\ucglib\src\clib\ucg_scale.c	/^void ucg_SetScale2x2(ucg_t *ucg)$/;"	f
+ucg_UndoRotate	.\ucglib\src\clib\ucg_rotate.c	/^void ucg_UndoRotate(ucg_t *ucg)$/;"	f
+ucg_UndoScale	.\ucglib\src\clib\ucg_scale.c	/^void ucg_UndoScale(ucg_t *ucg)$/;"	f
+ucg_UpdateRefHeight	.\ucglib\src\clib\ucg_font.c	/^void ucg_UpdateRefHeight(ucg_t *ucg)$/;"	f
+ucg_add_vector_x	.\ucglib\src\clib\ucg_font.c	/^static ucg_int_t ucg_add_vector_x(ucg_int_t dx, int8_t x, int8_t y, uint8_t dir)$/;"	f	file:
+ucg_add_vector_y	.\ucglib\src\clib\ucg_font.c	/^static ucg_int_t ucg_add_vector_y(ucg_int_t dy, int8_t x, int8_t y, uint8_t dir)$/;"	f	file:
+ucg_arg_t	.\ucglib\src\clib\ucg.h	/^typedef struct _ucg_arg_t ucg_arg_t;$/;"	t	typeref:struct:_ucg_arg_t
+ucg_box_t	.\ucglib\src\clib\ucg.h	/^typedef struct _ucg_box_t ucg_box_t;$/;"	t	typeref:struct:_ucg_box_t
+ucg_ccs_box	.\ucglib\src\clib\ucg_box.c	/^ucg_ccs_t ucg_ccs_box[6];	\/* color component sliders used by GradientBox *\/$/;"	v
+ucg_ccs_init	.\ucglib\src\clib\ucg_ccs.c	/^void ucg_ccs_init(ucg_ccs_t *ccs, uint8_t start, uint8_t end, ucg_int_t steps)$/;"	f
+ucg_ccs_seek	.\ucglib\src\clib\ucg_ccs.c	/^void ucg_ccs_seek(ucg_ccs_t *ccs, ucg_int_t pos)$/;"	f
+ucg_ccs_step	.\ucglib\src\clib\ucg_ccs.c	/^void ucg_ccs_step(ucg_ccs_t *ccs)$/;"	f
+ucg_ccs_t	.\ucglib\src\clib\ucg.h	/^typedef struct _ucg_ccs_t ucg_ccs_t;$/;"	t	typeref:struct:_ucg_ccs_t
+ucg_clip_intersection	.\ucglib\src\clib\ucg_clip.c	/^static ucg_int_t ucg_clip_intersection(ucg_int_t *ap, ucg_int_t *bp, ucg_int_t c, ucg_int_t d)$/;"	f	file:
+ucg_clip_is_pixel_visible	.\ucglib\src\clib\ucg_clip.c	/^ucg_int_t ucg_clip_is_pixel_visible(ucg_t *ucg)$/;"	f
+ucg_clip_is_x_visible	.\ucglib\src\clib\ucg_clip.c	/^static ucg_int_t ucg_clip_is_x_visible(ucg_t *ucg)$/;"	f	file:
+ucg_clip_is_y_visible	.\ucglib\src\clib\ucg_clip.c	/^static ucg_int_t ucg_clip_is_y_visible(ucg_t *ucg)$/;"	f	file:
+ucg_clip_l90fx	.\ucglib\src\clib\ucg_clip.c	/^ucg_int_t ucg_clip_l90fx(ucg_t *ucg)$/;"	f
+ucg_clip_l90se	.\ucglib\src\clib\ucg_clip.c	/^ucg_int_t ucg_clip_l90se(ucg_t *ucg)$/;"	f
+ucg_clip_l90tc	.\ucglib\src\clib\ucg_clip.c	/^ucg_int_t ucg_clip_l90tc(ucg_t *ucg)$/;"	f
+ucg_color_t	.\ucglib\src\clib\ucg.h	/^typedef struct _ucg_color_t ucg_color_t;$/;"	t	typeref:struct:_ucg_color_t
+ucg_com_3wire_9bit_buf_bitpos	.\ucglib\src\Ucglib.cpp	/^static uint8_t ucg_com_3wire_9bit_buf_bitpos;$/;"	v	file:
+ucg_com_3wire_9bit_buf_bytepos	.\ucglib\src\Ucglib.cpp	/^static uint8_t ucg_com_3wire_9bit_buf_bytepos;$/;"	v	file:
+ucg_com_3wire_9bit_buffer	.\ucglib\src\Ucglib.cpp	/^static uint8_t ucg_com_3wire_9bit_buffer[UCG_COM_ARDUINO_3WIRE_8BIT_BUF_LEN];$/;"	v	file:
+ucg_com_3wire_9bit_cd_mask	.\ucglib\src\Ucglib.cpp	/^static uint8_t ucg_com_3wire_9bit_cd_mask;$/;"	v	file:
+ucg_com_DelayMicroseconds	.\ucglib\src\clib\ucg_com_msg_api.c	/^void ucg_com_DelayMicroseconds(ucg_t *ucg, uint16_t delay)$/;"	f
+ucg_com_DelayMilliseconds	.\ucglib\src\clib\ucg_com_msg_api.c	/^void ucg_com_DelayMilliseconds(ucg_t *ucg, uint16_t delay)$/;"	f
+ucg_com_PowerDown	.\ucglib\src\clib\ucg_com_msg_api.c	/^void ucg_com_PowerDown(ucg_t *ucg)$/;"	f
+ucg_com_PowerUp	.\ucglib\src\clib\ucg_com_msg_api.c	/^int16_t ucg_com_PowerUp(ucg_t *ucg, uint16_t serial_clk_speed, uint16_t parallel_clk_speed)$/;"	f
+ucg_com_SendByte	.\ucglib\src\clib\ucg_com_msg_api.c	/^void ucg_com_SendByte(ucg_t *ucg, uint8_t byte)$/;"	f
+ucg_com_SendCmdArg	.\ucglib\src\clib\ucg_com_msg_api.c	/^static void ucg_com_SendCmdArg(ucg_t *ucg, const ucg_pgm_uint8_t *data, uint8_t cmd_cnt, uint8_t arg_cnt)$/;"	f	file:
+ucg_com_SendCmdDataSequence	.\ucglib\src\clib\ucg_com_msg_api.c	/^void ucg_com_SendCmdDataSequence(ucg_t *ucg, uint16_t cnt, const uint8_t *byte_ptr, uint8_t cd_line_status_at_end)$/;"	f
+ucg_com_SendCmdSeq	.\ucglib\src\clib\ucg_com_msg_api.c	/^void ucg_com_SendCmdSeq(ucg_t *ucg, const ucg_pgm_uint8_t *data)$/;"	f
+ucg_com_SendRepeat2Bytes	.\ucglib\src\clib\ucg_com_msg_api.c	/^void ucg_com_SendRepeat2Bytes(ucg_t *ucg, uint16_t cnt, uint8_t *byte_ptr)$/;"	f
+ucg_com_SendRepeat3Bytes	.\ucglib\src\clib\ucg.h	845;"	d
+ucg_com_SendRepeat3Bytes	.\ucglib\src\clib\ucg_com_msg_api.c	/^void ucg_com_SendRepeat3Bytes(ucg_t *ucg, uint16_t cnt, uint8_t *byte_ptr)$/;"	f
+ucg_com_SendRepeatByte	.\ucglib\src\clib\ucg_com_msg_api.c	/^void ucg_com_SendRepeatByte(ucg_t *ucg, uint16_t cnt, uint8_t byte)$/;"	f
+ucg_com_SendString	.\ucglib\src\clib\ucg_com_msg_api.c	/^void ucg_com_SendString(ucg_t *ucg, uint16_t cnt, const uint8_t *byte_ptr)$/;"	f
+ucg_com_SendStringP	.\ucglib\src\clib\ucg_com_msg_api.c	/^void ucg_com_SendStringP(ucg_t *ucg, uint16_t cnt, const ucg_pgm_uint8_t *byte_ptr)$/;"	f
+ucg_com_SetCDLineStatus	.\ucglib\src\clib\ucg_com_msg_api.c	/^void ucg_com_SetCDLineStatus(ucg_t *ucg, uint8_t level)$/;"	f
+ucg_com_SetCSLineStatus	.\ucglib\src\clib\ucg_com_msg_api.c	/^void ucg_com_SetCSLineStatus(ucg_t *ucg, uint8_t level)$/;"	f
+ucg_com_SetLineStatus	.\ucglib\src\clib\ucg_com_msg_api.c	/^void ucg_com_SetLineStatus(ucg_t *ucg, uint8_t level, uint8_t mask, uint8_t msg)$/;"	f
+ucg_com_SetResetLineStatus	.\ucglib\src\clib\ucg_com_msg_api.c	/^void ucg_com_SetResetLineStatus(ucg_t *ucg, uint8_t level)$/;"	f
+ucg_com_arduino_3wire_9bit_HW_SPI	.\ucglib\src\Ucglib.cpp	/^static int16_t ucg_com_arduino_3wire_9bit_HW_SPI(ucg_t *ucg, int16_t msg, uint16_t arg, uint8_t *data)$/;"	f	file:
+ucg_com_arduino_3wire_9bit_SW_SPI	.\ucglib\src\Ucglib.cpp	/^static int16_t ucg_com_arduino_3wire_9bit_SW_SPI(ucg_t *ucg, int16_t msg, uint16_t arg, uint8_t *data)$/;"	f	file:
+ucg_com_arduino_4wire_HW_SPI	.\ucglib\src\Ucglib.cpp	/^static int16_t ucg_com_arduino_4wire_HW_SPI(ucg_t *ucg, int16_t msg, uint16_t arg, uint8_t *data)$/;"	f	file:
+ucg_com_arduino_flush_3wire_9bit_HW_SPI	.\ucglib\src\Ucglib.cpp	/^static void ucg_com_arduino_flush_3wire_9bit_HW_SPI(ucg_t *ucg)$/;"	f	file:
+ucg_com_arduino_generic_8bit	.\ucglib\src\Ucglib.cpp	/^static int16_t ucg_com_arduino_generic_8bit(ucg_t *ucg, int16_t msg, uint16_t arg, uint8_t *data)$/;"	f	file:
+ucg_com_arduino_generic_SW_SPI	.\ucglib\src\Ucglib.cpp	/^static int16_t ucg_com_arduino_generic_SW_SPI(ucg_t *ucg, int16_t msg, uint16_t arg, uint8_t *data)$/;"	f	file:
+ucg_com_arduino_illi9325_SW_SPI	.\ucglib\src\Ucglib.cpp	/^static int16_t ucg_com_arduino_illi9325_SW_SPI(ucg_t *ucg, int16_t msg, uint16_t arg, uint8_t *data)$/;"	f	file:
+ucg_com_arduino_init_3wire_9bit_HW_SPI	.\ucglib\src\Ucglib.cpp	/^static void ucg_com_arduino_init_3wire_9bit_HW_SPI(ucg_t *ucg)$/;"	f	file:
+ucg_com_arduino_init_8bit	.\ucglib\src\Ucglib.cpp	/^static void ucg_com_arduino_init_8bit(ucg_t *ucg)$/;"	f	file:
+ucg_com_arduino_init_shift_out	.\ucglib\src\Ucglib.cpp	/^static void ucg_com_arduino_init_shift_out(uint8_t dataPin, uint8_t clockPin)$/;"	f	file:
+ucg_com_arduino_port_d	.\ucglib\src\Ucglib.cpp	/^static int16_t ucg_com_arduino_port_d(ucg_t *ucg, int16_t msg, uint16_t arg, uint8_t *data)$/;"	f	file:
+ucg_com_arduino_port_d_send	.\ucglib\src\Ucglib.cpp	/^static void ucg_com_arduino_port_d_send(uint8_t data, volatile uint8_t *port, uint8_t and_mask, uint8_t or_mask)$/;"	f	file:
+ucg_com_arduino_send_3wire_9bit_HW_SPI	.\ucglib\src\Ucglib.cpp	/^static void ucg_com_arduino_send_3wire_9bit_HW_SPI(ucg_t *ucg, uint8_t first_bit, uint8_t data)$/;"	f	file:
+ucg_com_arduino_send_3wire_9bit_SW_SPI	.\ucglib\src\Ucglib.cpp	/^static void ucg_com_arduino_send_3wire_9bit_SW_SPI(ucg_t *ucg, uint8_t first_bit, uint8_t data)$/;"	f	file:
+ucg_com_arduino_send_8bit	.\ucglib\src\Ucglib.cpp	/^static void ucg_com_arduino_send_8bit(ucg_t *ucg, uint8_t data)$/;"	f	file:
+ucg_com_arduino_send_generic_SW_SPI	.\ucglib\src\Ucglib.cpp	/^static void ucg_com_arduino_send_generic_SW_SPI(ucg_t *ucg, uint8_t data)$/;"	f	file:
+ucg_com_arduino_send_generic_SW_SPI	.\ucglib\src\Ucglib.cpp	/^static void ucg_com_arduino_send_generic_SW_SPI(ucg_t *ucg, uint8_t val)$/;"	f	file:
+ucg_com_fnptr	.\ucglib\src\clib\ucg.h	/^typedef int16_t (*ucg_com_fnptr)(ucg_t *ucg, int16_t msg, uint16_t arg, uint8_t *data);$/;"	t
+ucg_com_info_t	.\ucglib\src\clib\ucg.h	/^typedef struct _ucg_com_info_t ucg_com_info_t;$/;"	t	typeref:struct:_ucg_com_info_t
+ucg_com_template_cb	.\ucglib\src\clib\ucg_com_msg_api.c	/^int16_t ucg_com_template_cb(ucg_t *ucg, int16_t msg, uint32_t arg, uint8_t *data)$/;"	f
+ucg_dev_default_cb	.\ucglib\src\clib\ucg_dev_default_cb.c	/^ucg_int_t ucg_dev_default_cb(ucg_t *ucg, ucg_int_t msg, void *data)$/;"	f
+ucg_dev_fnptr	.\ucglib\src\clib\ucg.h	/^typedef ucg_int_t (*ucg_dev_fnptr)(ucg_t *ucg, ucg_int_t msg, void *data);$/;"	t
+ucg_dev_ic_ili9163_18	.\ucglib\src\clib\ucg_dev_ic_ili9163.c	/^ucg_int_t ucg_dev_ic_ili9163_18(ucg_t *ucg, ucg_int_t msg, void *data)$/;"	f
+ucg_dev_ili9163_18x128x128	.\ucglib\src\clib\ucg_dev_tft_128x128_ili9163.c	/^ucg_int_t ucg_dev_ili9163_18x128x128(ucg_t *ucg, ucg_int_t msg, void *data)$/;"	f
+ucg_dev_rotate180	.\ucglib\src\clib\ucg_rotate.c	/^ucg_int_t ucg_dev_rotate180(ucg_t *ucg, ucg_int_t msg, void *data)$/;"	f
+ucg_dev_rotate270	.\ucglib\src\clib\ucg_rotate.c	/^ucg_int_t ucg_dev_rotate270(ucg_t *ucg, ucg_int_t msg, void *data)$/;"	f
+ucg_dev_rotate90	.\ucglib\src\clib\ucg_rotate.c	/^ucg_int_t ucg_dev_rotate90(ucg_t *ucg, ucg_int_t msg, void *data)$/;"	f
+ucg_dev_scale2x2	.\ucglib\src\clib\ucg_scale.c	/^ucg_int_t ucg_dev_scale2x2(ucg_t *ucg, ucg_int_t msg, void *data)$/;"	f
+ucg_draw_circle	.\ucglib\src\clib\ucg_circle.c	/^void ucg_draw_circle(ucg_t *ucg, ucg_int_t x0, ucg_int_t y0, ucg_int_t rad, uint8_t option)$/;"	f
+ucg_draw_circle_section	.\ucglib\src\clib\ucg_circle.c	/^static void ucg_draw_circle_section(ucg_t *ucg, ucg_int_t x, ucg_int_t y, ucg_int_t x0, ucg_int_t y0, uint8_t option)$/;"	f	file:
+ucg_draw_disc	.\ucglib\src\clib\ucg_circle.c	/^void ucg_draw_disc(ucg_t *ucg, ucg_int_t x0, ucg_int_t y0, ucg_int_t rad, uint8_t option)$/;"	f
+ucg_draw_disc_section	.\ucglib\src\clib\ucg_circle.c	/^static void ucg_draw_disc_section(ucg_t *ucg, ucg_int_t x, ucg_int_t y, ucg_int_t x0, ucg_int_t y0, uint8_t option)$/;"	f	file:
+ucg_ext_ili9163_18	.\ucglib\src\clib\ucg_dev_ic_ili9163.c	/^ucg_int_t ucg_ext_ili9163_18(ucg_t *ucg, ucg_int_t msg, void *data)$/;"	f
+ucg_ext_none	.\ucglib\src\clib\ucg_dev_default_cb.c	/^ucg_int_t ucg_ext_none(ucg_t *ucg, ucg_int_t msg, void *data)$/;"	f
+ucg_fntpgm_uint8_t	.\ucglib\src\clib\ucg.h	/^typedef uint8_t ucg_fntpgm_uint8_t;$/;"	t
+ucg_font_GetCapitalAHeight	.\ucglib\src\clib\ucg_font.c	/^uint8_t ucg_font_GetCapitalAHeight(const void *font)$/;"	f
+ucg_font_GetFontEndEncoding	.\ucglib\src\clib\ucg_font.c	/^uint8_t ucg_font_GetFontEndEncoding(const void *font_arg)$/;"	f
+ucg_font_GetFontStartEncoding	.\ucglib\src\clib\ucg_font.c	/^uint8_t ucg_font_GetFontStartEncoding(const void *font_arg)$/;"	f
+ucg_font_GetLowerGDescent	.\ucglib\src\clib\ucg_font.c	/^int8_t ucg_font_GetLowerGDescent(const void *font)$/;"	f
+ucg_font_GetSize	.\ucglib\src\clib\ucg_font.c	/^size_t ucg_font_GetSize(const void *font_arg)$/;"	f
+ucg_font_calc_vref_bottom	.\ucglib\src\clib\ucg_font.c	/^ucg_int_t ucg_font_calc_vref_bottom(ucg_t *ucg)$/;"	f
+ucg_font_calc_vref_center	.\ucglib\src\clib\ucg_font.c	/^ucg_int_t ucg_font_calc_vref_center(ucg_t *ucg)$/;"	f
+ucg_font_calc_vref_fnptr	.\ucglib\src\clib\ucg.h	/^typedef ucg_int_t (*ucg_font_calc_vref_fnptr)(ucg_t *ucg);$/;"	t
+ucg_font_calc_vref_font	.\ucglib\src\clib\ucg_font.c	/^ucg_int_t ucg_font_calc_vref_font(ucg_t *ucg)$/;"	f
+ucg_font_calc_vref_top	.\ucglib\src\clib\ucg_font.c	/^ucg_int_t ucg_font_calc_vref_top(ucg_t *ucg)$/;"	f
+ucg_font_decode_draw_pixel	.\ucglib\src\clib\ucg_font.c	/^void ucg_font_decode_draw_pixel(ucg_t *ucg, uint8_t lx, uint8_t ly, uint8_t cnt, uint8_t is_foreground)$/;"	f
+ucg_font_decode_get_signed_bits	.\ucglib\src\clib\ucg_font.c	/^int8_t ucg_font_decode_get_signed_bits(ucg_font_decode_t *f, uint8_t cnt)$/;"	f
+ucg_font_decode_get_unsigned_bits	.\ucglib\src\clib\ucg_font.c	/^uint8_t ucg_font_decode_get_unsigned_bits(ucg_font_decode_t *f, uint8_t cnt) $/;"	f
+ucg_font_decode_glyph	.\ucglib\src\clib\ucg_font.c	/^int8_t ucg_font_decode_glyph(ucg_t *ucg, const uint8_t *glyph_data)$/;"	f
+ucg_font_decode_len	.\ucglib\src\clib\ucg_font.c	/^void ucg_font_decode_len(ucg_t *ucg, uint8_t len, uint8_t is_foreground)$/;"	f
+ucg_font_decode_t	.\ucglib\src\clib\ucg.h	/^typedef struct _ucg_font_decode_t ucg_font_decode_t;$/;"	t	typeref:struct:_ucg_font_decode_t
+ucg_font_draw_glyph	.\ucglib\src\clib\ucg_font.c	/^ucg_int_t ucg_font_draw_glyph(ucg_t *ucg, ucg_int_t x, ucg_int_t y, uint8_t dir, uint8_t encoding)$/;"	f
+ucg_font_get_byte	.\ucglib\src\clib\ucg_font.c	/^static uint8_t ucg_font_get_byte(const ucg_fntpgm_uint8_t *font, uint8_t offset)$/;"	f	file:
+ucg_font_get_glyph_data	.\ucglib\src\clib\ucg_font.c	/^const uint8_t *ucg_font_get_glyph_data(ucg_t *ucg, uint8_t encoding)$/;"	f
+ucg_font_get_word	.\ucglib\src\clib\ucg_font.c	/^static uint16_t ucg_font_get_word(const ucg_fntpgm_uint8_t *font, uint8_t offset)$/;"	f	file:
+ucg_font_info_t	.\ucglib\src\clib\ucg.h	/^typedef struct _ucg_font_info_t ucg_font_info_t;$/;"	t	typeref:struct:_ucg_font_info_t
+ucg_font_setup_decode	.\ucglib\src\clib\ucg_font.c	/^static void ucg_font_setup_decode(ucg_t *ucg, const uint8_t *glyph_data)$/;"	f	file:
+ucg_glyph_t	.\ucglib\src\clib\ucg_font.c	/^typedef void * ucg_glyph_t;$/;"	t	file:
+ucg_handle_ili9163_l90fx	.\ucglib\src\clib\ucg_dev_ic_ili9163.c	/^ucg_int_t ucg_handle_ili9163_l90fx(ucg_t *ucg)$/;"	f
+ucg_handle_ili9163_l90se	.\ucglib\src\clib\ucg_dev_ic_ili9163.c	/^ucg_int_t ucg_handle_ili9163_l90se(ucg_t *ucg)$/;"	f
+ucg_handle_ili9163_l90tc	.\ucglib\src\clib\ucg_dev_ic_ili9163.c	/^ucg_int_t ucg_handle_ili9163_l90tc(ucg_t *ucg)$/;"	f
+ucg_handle_l90bf	.\ucglib\src\clib\ucg_dev_default_cb.c	/^ucg_int_t ucg_handle_l90bf(ucg_t *ucg, ucg_dev_fnptr dev_cb)$/;"	f
+ucg_handle_l90fx	.\ucglib\src\clib\ucg_dev_default_cb.c	/^ucg_int_t ucg_handle_l90fx(ucg_t *ucg, ucg_dev_fnptr dev_cb)$/;"	f
+ucg_handle_l90rl	.\ucglib\src\clib\ucg_dev_default_cb.c	/^void ucg_handle_l90rl(ucg_t *ucg, ucg_dev_fnptr dev_cb)$/;"	f
+ucg_handle_l90se	.\ucglib\src\clib\ucg_dev_default_cb.c	/^ucg_int_t ucg_handle_l90se(ucg_t *ucg, ucg_dev_fnptr dev_cb)$/;"	f
+ucg_handle_l90tc	.\ucglib\src\clib\ucg_dev_default_cb.c	/^ucg_int_t ucg_handle_l90tc(ucg_t *ucg, ucg_dev_fnptr dev_cb)$/;"	f
+ucg_ili9163_power_down_seq	.\ucglib\src\clib\ucg_dev_ic_ili9163.c	/^static const ucg_pgm_uint8_t ucg_ili9163_power_down_seq[] = {$/;"	v	file:
+ucg_ili9163_set_pos_dir0_seq	.\ucglib\src\clib\ucg_dev_ic_ili9163.c	/^const ucg_pgm_uint8_t ucg_ili9163_set_pos_dir0_seq[] = $/;"	v
+ucg_ili9163_set_pos_dir1_seq	.\ucglib\src\clib\ucg_dev_ic_ili9163.c	/^const ucg_pgm_uint8_t ucg_ili9163_set_pos_dir1_seq[] = $/;"	v
+ucg_ili9163_set_pos_dir2_seq	.\ucglib\src\clib\ucg_dev_ic_ili9163.c	/^const ucg_pgm_uint8_t ucg_ili9163_set_pos_dir2_seq[] = $/;"	v
+ucg_ili9163_set_pos_dir3_seq	.\ucglib\src\clib\ucg_dev_ic_ili9163.c	/^const ucg_pgm_uint8_t ucg_ili9163_set_pos_dir3_seq[] = $/;"	v
+ucg_ili9163_set_pos_seq	.\ucglib\src\clib\ucg_dev_ic_ili9163.c	/^const ucg_pgm_uint8_t ucg_ili9163_set_pos_seq[] = $/;"	v
+ucg_init_struct	.\ucglib\src\clib\ucg_init.c	/^void ucg_init_struct(ucg_t *ucg)$/;"	f
+ucg_int_t	.\ucglib\src\clib\ucg.h	/^typedef int16_t ucg_int_t;$/;"	t
+ucg_nano_delay	.\ucglib\src\Ucglib.cpp	/^static void ucg_nano_delay(void)$/;"	f	file:
+ucg_pg	.\ucglib\src\clib\ucg_polygon.c	/^pg_struct ucg_pg;$/;"	v
+ucg_pgm_read	.\ucglib\src\clib\ucg.h	122;"	d
+ucg_pgm_read	.\ucglib\src\clib\ucg.h	131;"	d
+ucg_pgm_uint8_t	.\ucglib\src\clib\ucg.h	/^typedef uint8_t PROGMEM ucg_pgm_uint8_t;$/;"	t
+ucg_pgm_uint8_t	.\ucglib\src\clib\ucg.h	/^typedef uint8_t ucg_pgm_uint8_t;$/;"	t
+ucg_pixel_t	.\ucglib\src\clib\ucg.h	/^typedef struct _ucg_pixel_t ucg_pixel_t;$/;"	t	typeref:struct:_ucg_pixel_t
+ucg_read_font_info	.\ucglib\src\clib\ucg_font.c	/^void ucg_read_font_info(ucg_font_info_t *font_info, const ucg_fntpgm_uint8_t *font)$/;"	f
+ucg_rotate_180_xy	.\ucglib\src\clib\ucg_rotate.c	/^static void ucg_rotate_180_xy(ucg_t *ucg, ucg_xy_t *xy)$/;"	f	file:
+ucg_rotate_270_xy	.\ucglib\src\clib\ucg_rotate.c	/^static void ucg_rotate_270_xy(ucg_t *ucg, ucg_xy_t *xy)$/;"	f	file:
+ucg_rotate_90_xy	.\ucglib\src\clib\ucg_rotate.c	/^static void ucg_rotate_90_xy(ucg_xy_t *xy, ucg_int_t display_width)$/;"	f	file:
+ucg_scale_2x2_send_next_half_byte	.\ucglib\src\clib\ucg_scale.c	/^ static void ucg_scale_2x2_send_next_half_byte(ucg_t *ucg, ucg_xy_t *xy, ucg_int_t msg, ucg_int_t len, ucg_int_t dir, uint8_t b)$/;"	f	file:
+ucg_t	.\ucglib\src\clib\ucg.h	/^typedef struct _ucg_t ucg_t;$/;"	t	typeref:struct:_ucg_t
+ucg_tft_128x128_ili9163_init_seq	.\ucglib\src\clib\ucg_dev_tft_128x128_ili9163.c	/^static const ucg_pgm_uint8_t ucg_tft_128x128_ili9163_init_seq[] = {$/;"	v	file:
+ucg_wh_t	.\ucglib\src\clib\ucg.h	/^typedef struct _ucg_wh_t ucg_wh_t;$/;"	t	typeref:struct:_ucg_wh_t
+ucg_xy_t	.\ucglib\src\clib\ucg.h	/^typedef struct _ucg_xy_t ucg_xy_t;$/;"	t	typeref:struct:_ucg_xy_t
+ul	.\ucglib\src\clib\ucg.h	/^  ucg_xy_t ul;$/;"	m	struct:_ucg_box_t
+undoClipRange	.\ucglib\src\Ucglib.h	/^    void undoClipRange(void) { ucg_SetMaxClipRange(&ucg); }$/;"	f	class:Ucglib
+undoRotate	.\ucglib\src\Ucglib.h	/^    void undoRotate(void) { ucg_UndoRotate(&ucg); }$/;"	f	class:Ucglib
+undoScale	.\ucglib\src\Ucglib.h	/^    void undoScale(void) { ucg_UndoScale(&ucg); }$/;"	f	class:Ucglib
+verifyResponse	.\Adafruit-VC0706\Adafruit_VC0706.cpp	/^boolean Adafruit_VC0706::verifyResponse(uint8_t command) {$/;"	f	class:Adafruit_VC0706
+w	.\ucglib\src\clib\ucg.h	/^  ucg_int_t w;$/;"	m	struct:_ucg_wh_t
+wasStatic	.\myLib\src\wifi.cpp	/^bool wasStatic = false;$/;"	v
+wifiAPinfo_h	.\myLib\src\wifiAPinfo.h	2;"	d
+wifiManager	.\myLib\src\wifi.cpp	/^WiFiManager wifiManager;$/;"	v
+wifi_h	.\myLib\src\wifi.h	2;"	d
+wmIsConnected	.\myLib\src\wifi.cpp	/^bool wmIsConnected = false;$/;"	v
+write	.\ucglib\src\Ucglib.cpp	/^size_t Ucglib::write(uint8_t c) { $/;"	f	class:Ucglib
+x	.\ucglib\src\clib\ucg.h	/^  int8_t x;						\/* local coordinates, (0,0) is upper left *\/$/;"	m	struct:_ucg_font_decode_t
+x	.\ucglib\src\clib\ucg.h	/^  pg_word_t x;$/;"	m	struct:pg_point_struct
+x	.\ucglib\src\clib\ucg.h	/^  ucg_int_t x;$/;"	m	struct:_ucg_xy_t
+x_direction	.\ucglib\src\clib\ucg.h	/^  pg_word_t x_direction;	\/* 1, if x2 is greater than x1, -1 otherwise *\/$/;"	m	struct:pg_edge_struct
+x_offset	.\ucglib\src\clib\ucg.h	/^  int8_t x_offset;$/;"	m	struct:_ucg_font_info_t
+y	.\ucglib\src\clib\ucg.h	/^  int8_t y;$/;"	m	struct:_ucg_font_decode_t
+y	.\ucglib\src\clib\ucg.h	/^  pg_word_t y;$/;"	m	struct:pg_point_struct
+y	.\ucglib\src\clib\ucg.h	/^  ucg_int_t y;$/;"	m	struct:_ucg_xy_t
+y_offset	.\ucglib\src\clib\ucg.h	/^  int8_t y_offset;$/;"	m	struct:_ucg_font_info_t
